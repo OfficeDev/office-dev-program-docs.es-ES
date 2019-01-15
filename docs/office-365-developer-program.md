@@ -2,12 +2,13 @@
 title: Unirse al programa de desarrolladores de Office 365.
 description: Únase al programa de desarrolladores de Office 365 para desarrollar y probar soluciones de Office 365 independientes de su entorno de producción.
 ms.date: 03/20/2018
-ms.openlocfilehash: 5caf46364d6b9bb48eb3a9ddf868228a849aba89
-ms.sourcegitcommit: b7da765007f295d17f23b7d4a638af760ecd3b96
+localization_priority: Priority
+ms.openlocfilehash: 9f2c07a16af6e164032c66c1ee93ee45417567ca
+ms.sourcegitcommit: 5929843b58730078fa4a92a8cc3ab44291462585
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/17/2018
-ms.locfileid: "25670340"
+ms.lasthandoff: 01/15/2019
+ms.locfileid: "28015117"
 ---
 # <a name="welcome-to-the-office-365-developer-program"></a>Le damos la bienvenida al programa de desarrolladores de Office 365
 
