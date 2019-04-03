@@ -1,22 +1,22 @@
 ---
 title: Unirse al programa de desarrolladores de Office 365.
-description: Únase al programa de desarrolladores de Office 365 para desarrollar y probar soluciones de Office 365 independientes de su entorno de producción.
-ms.date: 03/20/2018
+description: Únase al programa de desarrolladores de Office 365 para desarrollar soluciones de Office 365 independientes de su entorno de producción.
+ms.date: 04/01/2019
 localization_priority: Priority
-ms.openlocfilehash: 9f2c07a16af6e164032c66c1ee93ee45417567ca
-ms.sourcegitcommit: 5929843b58730078fa4a92a8cc3ab44291462585
+ms.openlocfilehash: a2c6c6436b915503463c30fb613c11949770b9b2
+ms.sourcegitcommit: 5d2444c7732b0312a8939cfa3671c3e7835aee3e
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28015117"
+ms.lasthandoff: 04/02/2019
+ms.locfileid: "31041987"
 ---
 # <a name="welcome-to-the-office-365-developer-program"></a>Le damos la bienvenida al programa de desarrolladores de Office 365
 
-Únase a sus amigos y compañeros en el programa de desarrolladores de Office 365. Use la suscripción de desarrolladores de Office 365 para desarrollar y probar las soluciones independientes de su entorno de producción. Puede crear soluciones para Microsoft Teams, complementos de Office, Microsoft Graph, SharePoint Framework, complementos de SharePoint y mucho más.
+Únase a sus amigos y compañeros en el programa de desarrolladores de Office 365. Use la suscripción de desarrolladores de Office 365 para desarrollar las soluciones independientes de su entorno de producción. Puede crear soluciones para Microsoft Teams, complementos de Office, Microsoft Graph, SharePoint Framework, complementos de SharePoint y mucho más.
 
 ## <a name="join-the-office-365-developer-program"></a>Unirse al programa de desarrolladores de Office 365.
 
-1. Vaya a la página [Unirse al programa de desarrolladores de Office 365](https://developer.microsoft.com/es-ES/office/dev-program). 
+1. Vaya a la página [Unirse al programa de desarrolladores de Office 365](https://developer.microsoft.com/office/dev-program). 
 
 2. En la esquina superior derecha, elija **Iniciar sesión** para iniciar sesión con su cuenta de Microsoft o el correo electrónico habilitado para Azure Active Directory. 
 
@@ -57,4 +57,8 @@ ms.locfileid: "28015117"
 
 - Cuando disponga de la suscripción de desarrolladores, [use su suscripción](build-office-365-solutions.md) para crear los tipos de soluciones que quiera.
 
-- Para ver las preguntas más frecuentes sobre el programa de desarrolladores de Office 365, vea las [Preguntas más frecuentes](office-365-developer-program-faq.md). 
+- Para obtener información sobre suscripciones que van a expirar, consulte [Caducidad y renovación de suscripciones](subscription-expiration-and-renewal.md).
+
+- Para ver las preguntas más frecuentes sobre el programa de desarrolladores de Office 365, vea las [Preguntas más frecuentes](office-365-developer-program-faq.md).
+
+
