@@ -1,99 +1,150 @@
 ---
 title: Preguntas frecuentes del programa de desarrolladores de Office 365
 description: Preguntas más frecuentes sobre el programa de desarrolladores de Office 365.
-ms.date: 04/16/2018
+ms.date: 04/01/2019
 localization_priority: Priority
-ms.openlocfilehash: d154b87410b30a01d4ed696cfd7c115484ab01a4
-ms.sourcegitcommit: 5929843b58730078fa4a92a8cc3ab44291462585
+ms.openlocfilehash: cc87dd169705e4ac37e521ef8ca5d8529d810fe7
+ms.sourcegitcommit: 5d2444c7732b0312a8939cfa3671c3e7835aee3e
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28015138"
+ms.lasthandoff: 04/02/2019
+ms.locfileid: "31042015"
 ---
 # <a name="office-365-developer-program-faq"></a>Preguntas frecuentes del programa de desarrolladores de Office 365
 
 
 Estos son las preguntas más frecuentes sobre el programa de desarrolladores de Office 365.
 
-### <a name="what-is-the-office-365-developer-program-and-who-should-join-it"></a>¿Qué es el programa de desarrolladores de Office 365 y quién debería unirse a él?
+## <a name="what-is-the-office-365-developer-program-and-who-should-join-it"></a>¿Qué es el programa de desarrolladores de Office 365 y quién debería unirse a él?
 
-El programa para desarrolladores de Office 365 está diseñado para ayudarle a crear soluciones de inteligencia y conectadas que permiten a los clientes y organizaciones hacer más. Si está interesado en usar Office 365 para llevar a cabo desarrollo y pruebas, considere la posibilidad de unirse al programa. Para obtener más información, vea [Unirse al programa de desarrolladores de Office 365](office-365-developer-program.md).
+El programa de desarrolladores de Office 365 está diseñado para ayudarle a crear experiencias de productividad multiplataforma centradas en las personas que se extienden a Office 365. Únase a nuestro programa para obtener acceso a las herramientas, documentación, formación, expertos y eventos de la comunidad que necesita para crear soluciones excelentes para productos y tecnologías de Office 365, incluidos
+
+- los complementos web de [Excel](https://developer.microsoft.com/excel), [Outlook](https://developer.microsoft.com/outlook), [Word](https://developer.microsoft.com/word) y [PowerPoint](https://developer.microsoft.com/powerpoint)
+- [SharePoint](https://developer.microsoft.com/sharepoint)
+- [Microsoft Teams](https://developer.microsoft.com/microsoft-teams)
+- [Microsoft Graph](https://developer.microsoft.com/graph)
+
+Como miembro del programa, puede obtener una suscripción de desarrollador de Office 365 gratuita con 25 licencias de usuario para crear sus soluciones. Esta suscripción permanecerán activa mientras siga desarrollando e implementando soluciones de manera activa.
+
+Para obtener más información, vea [Unirse al programa de desarrolladores de Office 365](office-365-developer-program.md) y [Crear soluciones de Office 365](build-office-365-solutions.md).
  
-### <a name="i-heard-that-developers-can-receive-an-office-365-developer-subscription-if-they-join-the-program-how-does-that-work"></a>He oído que los desarrolladores pueden recibir una suscripción de desarrollador de Office 365 al unirse al programa. ¿Cómo funciona?  
+## <a name="how-does-the-office-365-developer-subscription-work"></a>¿Cómo funciona la suscripción de desarrollador de Office 365?  
 
-La suscripción de desarrollo de Office 365 está diseñada para usarse solo para desarrollar aplicaciones y realizar pruebas, e incluye 25 licencias de usuario. Después de unirse al programa de desarrolladores de Office 365, tendrá la opción de recibir y configurar una suscripción de desarrolladores de Office 365. Para obtener más información, vea [Configurar una suscripción del programa de desarrolladores de Office 365](office-365-developer-program-get-started.md).
+Si se une al programa de desarrolladores de Office 365, puede obtener una suscripción de desarrollador de Office 365. Esta es una suscripción especial diseñada para usarse solo para desarrollar aplicaciones e incluye 25 licencias de usuario. 
 
-### <a name="how-many-licenses-can-i-add-with-my-subscription"></a>¿Cuántas licencias puedo añadir a mi suscripción?
+Después de unirse al programa de desarrolladores de Office 365, tendrá la opción de recibir y configurar una suscripción de desarrollador de Office 365. La suscripción es válida durante 90 días y se puede renovar otros 90, siempre que se use activamente para tareas de desarrollo. 
 
-Puede añadir hasta 25 usuarios para realizar desarrollo y pruebas. 
+Para obtener más información, vea [Configurar una suscripción del programa de desarrolladores de Office 365](office-365-developer-program-get-started.md).
 
-### <a name="as-a-microsoft-partner-can-i-receive-a-subscription"></a>Como partner de Microsoft, ¿puedo recibir una suscripción? 
+## <a name="how-many-user-licenses-can-i-add-with-my-subscription"></a>¿Cuántas licencias de usuario puedo añadir a mi suscripción?
 
-Sí, puede seguir [estas instrucciones](office-365-developer-program.md) para unirse al programa de desarrolladores de Office 365 y configurar una suscripción de desarrolladores de Office 365. Sin embargo, si ya tiene una suscripción de Visual Studio Enterprise (MSDN), puede obtener una suscripción de desarrollador de Office 365 como beneficio. Para obtener más información, póngase en contacto con [atención al cliente de Visual Studio](https://www.visualstudio.com/subscriptions/support/). 
+Puede agregar hasta 25 licencias de usuario, incluido el administrador, únicamente con fines de desarrollo. Si usa esta suscripción con otros fines que no sean el desarrollo de aplicaciones, estará infringiendo el contrato de licencia. Para obtener más información sobre las restricciones de licencias, vea los [términos de uso de la suscripción de desarrollador de Office 365](terms-and-conditions.md).
 
-### <a name="as-a-microsoft-full-time-employee-can-i-receive-a-subscription"></a>Como empleado a tiempo completo de Microsoft, ¿puedo recibir una suscripción?
+## <a name="why-dont-you-offer-a-one-year-subscription"></a>¿Por qué no se ofrece una suscripción de un año?
 
-Los empleados de Microsoft no pueden inscribirse en esta oferta. Sin embargo, todos los empleados a tiempo completo de Microsoft tienen acceso a una suscripción gratuita de Visual Studio (MSDN) que incluye el acceso a Office E3 Developer. Puede acceder a este beneficio en [Visual Studio | Mis beneficios](https://my.visualstudio.com/benefits).
+En abril de 2019, se realizó la transición a un nuevo modelo donde la suscripción se puede renovar permanentemente cada 90 días si se usa activamente para el desarrollo. Creemos que este modelo garantiza que los desarrolladores que estén desarrollando activamente soluciones tengan una suscripción mientras la necesiten. Si desarrolla soluciones con frecuencia, la suscripción no caduca nunca; se renueva automáticamente. Si trabaja en tareas de desarrollo durante un tiempo y la suscripción caduca y se elimina, siempre puede volver a registrarse para crear una nueva. 
 
-### <a name="as-a-vendor-working-at-microsoft-do-i-qualify-for-a-subscription"></a>Como proveedor que trabaja en Microsoft, ¿puedo optar a una suscripción?
+Si prefiere una suscripción que esté disponible durante un período más largo, le recomendamos la suscripción de Visual Studio Professional o Visual Studio Enterprise. Estos programas incluyen una suscripción de desarrollador de Office 365 gratuita que es válida durante la duración de la suscripción de Visual Studio. Para acceder, vaya a [Visual Studio | Mis ventajas](https://my.visualstudio.com/benefits). Para obtener más información, póngase en contacto con [atención al cliente de Visual Studio](https://www.visualstudio.com/subscriptions/support/). 
 
-Sí, puede seguir [estas instrucciones](office-365-developer-program.md) para unirse al programa de desarrolladores de Office 365 y configurar una suscripción de desarrolladores de Office 365.
+## <a name="how-do-you-determine-whether-a-subscription-can-be-renewed"></a>¿Cómo determinar si se puede renovar una suscripción?
 
-### <a name="whats-included-in-the-office-365-developer-subscription"></a>¿Qué incluye la suscripción de desarrollador de Office 365?
+Usamos un conjunto de algoritmos y telemetría que recibimos de su registro de actividad en el programa de desarrolladores de Office 365 y de su suscripción de desarrollador de Office 365 para determinar si está desarrollando activamente. Comprobamos estos datos periódicamente para actualizar el estado y determinar si debe ampliarse la suscripción. 
 
-- [Exchange Online (Plan 2)](https://products.office.com/es-ES/exchange/compare-microsoft-exchange-online-plans)
-- [Flow para Office 365 (Plan 2)](https://flow.microsoft.com/es-ES/pricing/)
-- 
-  [Microsoft Forms (Plan E5)](https://support.office.com/en-us/article/Frequently-asked-questions-about-Microsoft-Forms-495c4242-6102-40a0-add8-df05ed6af61c?ui=en-US&rs=en-US&ad=US)
-- 
-  [Microsoft Planner](https://products.office.com/en-us/compare-all-microsoft-office-products?tab=2)
-- [Microsoft Stream para O365 E5 SKU](https://products.office.com/es-ES/business/office-365-enterprise-e5-business-software)
-- [Microsoft Teams](https://products.office.com/es-ES/business/office-365-enterprise-e5-business-software)
-- [Administración de dispositivos móviles para Office 365](https://support.office.com/es-ES/article/Set-up-Mobile-Device-Management-MDM-in-Office-365-dd892318-bc44-4eb1-af00-9db5430be3cd)
-- [Office 365 ProPlus](https://products.office.com/es-ES/business/office-365-proplus-business-software)
-- [PowerApps para Office 365 (Plan 2)](https://powerapps.microsoft.com/es-ES/pricing/)
-- [SharePoint Online para desarrolladores](https://products.office.com/es-ES/SharePoint/compare-sharepoint-plans)
-- [Skype Empresarial Online (Plan 2)](https://products.office.com/es-ES/skype-for-business/online-meeting-solutions)
+Si cree que nuestro seguimiento no refleja en algún modo su actividad de desarrollo con precisión, háganoslo saber a través del panel. Para enviar un formulario que nos diga cómo usa su suscripción para tareas de desarrollo, en la advertencia del panel, elija el vínculo **Háganoslo saber**, como se muestra en la siguiente imagen. Revisaremos su solicitud y le informamos si reúne las condiciones para una extensión. 
+
+<img alt="Screenshot of the subscription expiration text box with the let us know link highlighted" src="images/appeals-ux-for-qa.jpg" width="500"> 
+
+## <a name="how-do-you-define-development-activity"></a>¿Cómo se define la actividad de desarrollo?
+
+Su actividad en el programa de desarrolladores de Office 365 y su suscripción de desarrollador de Office 365 determinan si está desarrollando activamente y si debería renovarse su suscripción. 
+
+## <a name="what-development-activities-do-you-track"></a>¿Para qué tareas de desarrollo realizan un seguimiento?
+
+Para obtener más información sobre los tipos de tareas para las que se realiza un seguimiento, consulte los [términos de uso de la suscripción de desarrollador de Office 365](terms-and-conditions.md). 
+
+## <a name="whats-included-in-the-office-365-developer-subscription"></a>¿Qué incluye la suscripción de desarrollador de Office 365?
+
+Su suscripción de desarrollador incluye lo siguiente:
+
+- [Exchange Online (Plan 2)](https://products.office.com/exchange/compare-microsoft-exchange-online-plans)
+- [Flow para Office 365 Plan 2](https://flow.microsoft.com/pricing/)
+- [Microsoft Forms (plan E5)](https://support.office.com/article/Frequently-asked-questions-about-Microsoft-Forms-495c4242-6102-40a0-add8-df05ed6af61c)
+- [Microsoft Planner](https://products.office.com/compare-all-microsoft-office-products?tab=2)
+- [Microsoft Stream para O365 E5 SKU](https://products.office.com/business/office-365-enterprise-e5-business-software)
+- [Microsoft Teams](https://products.office.com/business/office-365-enterprise-e5-business-software)
+- [Administración de dispositivos móviles para Office 365](https://support.office.com/article/Set-up-Mobile-Device-Management-MDM-in-Office-365-dd892318-bc44-4eb1-af00-9db5430be3cd)
+- [Office 365 ProPlus](https://products.office.com/business/office-365-proplus-business-software)
+- [PowerApps para Office 365 Plan 2](https://powerapps.microsoft.com/pricing/)
+- [SharePoint Online para Developer](https://products.office.com/SharePoint/compare-sharepoint-plans)
+- [Skype Empresarial Online (Plan 2)](https://products.office.com/skype-for-business/online-meeting-solutions)
 - [Sway](https://sway.com/)
-- [Tareas pendientes (Plan 3)](https://todo.microsoft.com/en-us)
+- [To-Do (plan 3)](https://todo.microsoft.com)
 
-### <a name="does-the-subscription-also-include-a-subscription-to-azure"></a>¿La suscripción también incluye una suscripción a Azure?
+## <a name="does-the-subscription-also-include-a-subscription-to-azure"></a>¿La suscripción también incluye una suscripción a Azure?
 
-Esta oferta no incluye una suscripción a Azure. Sin embargo, para recibir acceso gratuito a los servicios de Azure, puede [crear una cuenta gratuita de Azure](https://azure.microsoft.com/es-ES/free/). 
+Esta oferta no incluye una suscripción a Azure. Sin embargo, para recibir acceso gratuito a los servicios de Azure, puede [crear una cuenta gratuita de Azure](https://azure.microsoft.com/free/). 
 
-### <a name="how-long-is-my-subscription-good-for-and-when-does-it-expire"></a>¿Cuánto tiempo dura mi suscripción y cuándo expira?
+## <a name="how-long-is-my-subscription-good-for-and-when-does-it-expire"></a>¿Cuánto tiempo dura mi suscripción y cuándo caduca?
 
-La suscripción es válida durante un año. Puede encontrar la fecha de expiración, junto con el nombre de la suscripción, en la página de perfil del programa de desarrolladores de Office 365.
+La suscripción dura 90 días y puede renovarse en función de la actividad de desarrollo válida. Si usa la suscripción para tareas de desarrollo, se renovará cada 3 meses y durará de manera indefinida. Puede encontrar la fecha de expiración, junto con el nombre de la suscripción, en el [panel del programa de desarrolladores de Office 365](https://developer.microsoft.com/es-ES/office/profile). Para obtener más información, vea [Caducidad y renovación de la suscripción](subscription-expiration-and-renewal.md).
 
-### <a name="when-my-subscription-is-about-to-expire-can-i-extend-it"></a>Cuando la suscripción esté a punto de expirar, ¿puedo ampliarla?
+Si desea unirse al programa a través de Visual Studio Enterprise o Visual Studio Professional, la suscripción se renovará automáticamente hasta que caduque su suscripción a Visual Studio. 
 
-En este momento, no podemos ampliar las suscripciones existentes. Sin embargo, puede ampliar su suscripción comprando una opción especial por 99,00 $ al año por usuario. Cuando su suscripción esté a punto de expirar, recibirá un aviso para renovarla que contiene instrucciones sobre cómo ampliar su suscripción.
+<a name="renew-subscription"> </a>
+
+## <a name="when-my-subscription-is-about-to-expire-can-i-extend-it"></a>¿Puedo ampliar la suscripción cuando esté a punto de caducar?
+
+La única forma de ampliar su suscripción es trabajando en tareas de desarrollo válidas. Si usa su suscripción para desarrollar soluciones personalizadas, la suscripción caducará y acabará por eliminase. 
+
+Para obtener más información, vea [Caducidad y renovación de la suscripción](subscription-expiration-and-renewal.md).
+
+## <a name="if-my-subscription-is-going-to-expire-how-much-time-do-i-have-before-it-is-deleted"></a>Si la suscripción va a caducar, ¿cuánto tiempo tengo antes de que se elimine?
+
+Una vez que expire la suscripción, tiene 30 días para migrar los datos. Durante esos 30 días, solo el administrador tendrá acceso a la suscripción y, tras 60 días, se eliminarán todos los datos y la suscripción.
 
 <a name="account-types"> </a>
 
-### <a name="what-account-can-i-use-to-sign-up-for-the-developer-program"></a>¿Qué cuenta puedo usar para registrarme en el programa para desarrolladores?
+## <a name="what-account-can-i-use-to-sign-up-for-the-office-365-developer-program"></a>¿Qué cuenta puedo usar para registrarme en el programa de desarrolladores de Office 365?
 
 Puede registrarse en el programa de desarrolladores con uno de los siguientes tipos de cuenta:
 
 - **Cuenta de Microsoft** (creada personalmente para uso personal): proporciona acceso a todos los servicios en la nube y productos orientados al consumidor de Microsoft, como Outlook (Hotmail), Messenger, OneDrive, MSN, Xbox Live u Office 365. Al registrarse en un buzón de Outlook.com se crea automáticamente una cuenta de Microsoft. Después de crear una cuenta de Microsoft, puede usarla para obtener acceso a los servicios en la nube de Microsoft relacionados con el consumidor o Azure. 
-- **Cuenta profesional o educativa** (emitida por un administrador para su uso empresarial o académico): proporciona acceso todos los servicios en la nube pequeños, medianos o de nivel empresarial de Microsoft, como Office 365, Microsoft Intune o Azure. Cuando inicia sesión como una organización en uno de estos servicios, un directorio en la nube se aprovisiona automáticamente en Azure Active Directory para representar a su organización. Para obtener más información, vea [Administrar el directorio de Azure AD](https://docs.microsoft.com/es-ES/azure/active-directory/active-directory-administer).
+- **Cuenta profesional** (emitida por un administrador para su uso empresarial): proporciona acceso todos los servicios en la nube pequeños, medianos o de nivel empresarial de Microsoft, como Office 365, Microsoft Intune o Azure. Cuando inicia sesión como una organización en uno de estos servicios, un directorio en la nube se aprovisiona automáticamente en Azure Active Directory para representar a su organización. Para obtener más información, vea [Administrar el directorio de Azure AD](https://docs.microsoft.com/azure/active-directory/active-directory-administer).
+- **Identificador Visual Studio** (creado para las suscripciones de Visual Studio Professional o Enterprise): le recomendamos que use esta opción para unirse al programa de desarrolladores desde la Galería de Visual Studio para aprovechar todas las ventajas que tienen los suscriptores a Visual Studio. 
+ 
+## <a name="as-a-microsoft-partner-can-i-receive-a-subscription"></a>Como partner de Microsoft, ¿puedo recibir una suscripción? 
 
-### <a name="is-the-program-available-in-my-language"></a>¿Está el programa disponible en mi idioma?
+Sí, puede seguir [estas instrucciones](office-365-developer-program.md) para unirse al programa de desarrolladores de Office 365 y configurar una suscripción de desarrollador de Office 365. Sin embargo, si ya tiene una suscripción de Visual Studio Enterprise o Visual Studio Professional (MSDN), puede obtener una suscripción de desarrollador de Office 365 como beneficio. Para acceder, vaya a [Visual Studio | Mis ventajas](https://my.visualstudio.com/benefits). Para obtener más información, póngase en contacto con [atención al cliente de Visual Studio](https://www.visualstudio.com/subscriptions/support/). 
 
-Actualmente, el programa sólo está disponible en inglés.
+## <a name="as-a-full-time-microsoft-employee-can-i-receive-a-subscription"></a>Como empleado a tiempo completo de Microsoft, ¿puedo recibir una suscripción?
 
+Los empleados de Microsoft no pueden inscribirse en esta oferta. Sin embargo, todos los empleados a tiempo completo de Microsoft tienen acceso a una suscripción gratuita de Visual Studio (MSDN) que incluye el acceso a Office E3 Developer. Puede acceder a este beneficio en [Visual Studio | Mis beneficios](https://my.visualstudio.com/benefits).
+
+## <a name="as-a-vendor-working-at-microsoft-do-i-qualify-for-a-subscription"></a>Como proveedor que trabaja en Microsoft, ¿puedo optar a una suscripción?
+
+Sí, puede seguir [estas instrucciones](office-365-developer-program.md) para unirse al programa de desarrolladores de Office 365 y configurar una suscripción de desarrollador de Office 365. Pero, incluso para los proveedores, esta suscripción está diseñada para usarse _solo para el desarrollo de aplicaciones_. Si no está realizando las tareas de desarrollo válidas, no se renovará la suscripción.
+
+## <a name="is-the-office-365-developer-program-available-in-my-language"></a>¿Está el programa de desarrolladores de Office 365 disponible en mi idioma?
+
+Además del inglés, el programa de desarrolladores de Office 365 está disponible en los siguientes idiomas: chino (simplificado), francés, alemán, japonés, portugués (Brasil), ruso y español.
+
+## <a name="is-the-office-365-developer-subscription-available-in-my-language"></a>¿Está la suscripción de desarrollador de Office 365 disponible en mi idioma?
+
+La suscripción de desarrollador de Office 365 solo está disponible en inglés.
 
 ## <a name="support"></a>Soporte técnico
 
-Si tiene problemas con la configuración de la suscripción, vea los siguientes recursos de soporte técnico: 
-- [Stackoverflow](https://stackoverflow.com/questions)   
+Si tiene problemas con la configuración de la suscripción, vea los siguientes recursos de soporte técnico:
+
+- [Stack Overflow](https://stackoverflow.com/questions)   
 - [Atención al cliente de Visual Studio](https://www.visualstudio.com/subscriptions/support/)
 
 ## <a name="see-also"></a>Vea también
 
 - [Unirse al programa de desarrolladores de Office 365](office-365-developer-program.md)
-- [Configurar una suscripción del programa de desarrolladores de Office 365](office-365-developer-program-get-started.md)
+- [Configurar una suscripción de desarrollador de Office 365](office-365-developer-program-get-started.md)
 - [Usar la suscripción para crear soluciones de Office 365](build-office-365-solutions.md)
+- [Renovar una suscripción que va a caducar](subscription-expiration-and-renewal.md)
 
 
  

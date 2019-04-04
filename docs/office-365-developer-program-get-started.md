@@ -1,18 +1,18 @@
 ---
-title: Configurar una suscripción de desarrolladores de Office 365
-description: Configure una suscripción de desarrolladores de Office 365 para crear y probar soluciones independientes de su entorno de producción.
-ms.date: 03/20/2018
+title: Configurar una suscripción de desarrollador de Office 365
+description: Configure una suscripción de desarrollador de Office 365 para crear soluciones independientes de su entorno de producción.
+ms.date: 04/01/2019
 localization_priority: Priority
-ms.openlocfilehash: 76d8523d6c86d2d5dc6b277999b4025d7027dbf0
-ms.sourcegitcommit: 5929843b58730078fa4a92a8cc3ab44291462585
+ms.openlocfilehash: 32b32847b50c16c8b8f16b360318af1f18d8d69b
+ms.sourcegitcommit: 5d2444c7732b0312a8939cfa3671c3e7835aee3e
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28015131"
+ms.lasthandoff: 04/02/2019
+ms.locfileid: "31042008"
 ---
-# <a name="set-up-an-office-365-developer-subscription"></a>Configurar una suscripción de desarrolladores de Office 365 
+# <a name="set-up-an-office-365-developer-subscription"></a>Configurar una suscripción de desarrollador de Office 365 
 
-Configure una suscripción de desarrolladores de Office 365 para crear y probar soluciones independientes de su entorno de producción. La suscripción es una suscripción a Office 365 Enterprise E3 Developer con 25 licencias de usuario. Tiene una duración de un año y es gratuita para fines de desarrollo (codificación y prueba de soluciones).
+Configure una suscripción de desarrolladores de Office 365 para crear soluciones independientes de su entorno de producción. La suscripción es una suscripción a Office 365 Enterprise E3 Developer con 25 licencias de usuario. Tiene una duración de 90 días y es gratuita para fines de desarrollo (codificación de soluciones).
 
 > [!NOTE] 
 > Para configurar una suscripción, primero debe [Unirse al programa de desarrolladores de Office 365](office-365-developer-program.md). Después de unirse, verá la opción para configurar una suscripción.
@@ -40,23 +40,23 @@ Configure una suscripción de desarrolladores de Office 365 para crear y probar 
 
 ## <a name="configure-the-subscription"></a>Cambiar la configuración de la suscripción
 
-1. En la página de perfil, seleccione el vínculo [office.com](https://www.office.com/) e inicie sesión con su Id. de usuario (por ejemplo, nombredeusuario@dominio.onmicrosoft.com) y la contraseña que especificó para su suscripción de desarrollador.
+1. En la página de perfil, seleccione el vínculo [office.com](https://www.office.com/) e inicie sesión con su Id. de usuario (por ejemplo, username@domain.onmicrosoft.com) y la contraseña que especificó para su suscripción de desarrollador.
 
    > [!NOTE] 
-   > No inicie sesión en su suscripción con las credenciales del programa de desarrollador.
+   > No inicie sesión en su suscripción con las credenciales del programa de desarrolladores.
 
 2. Use el iniciador de aplicaciones para ir al [Centro de administración](https://portal.office.com/adminportal/home#/homepage).
 
-3. En la página principal del centro de administración, elija **Ir a la configuración**. Esto le llevará a la página **Configuración de Office 365 Enterprise E3 Developer**.
+3. En la página principal del centro de administración, elija **Ir a la configuración**. Esto le lleva a la página **Configuración de Office 365 Enterprise E3 Developer**.
 
 4. **Personalizar el inicio de sesión y correo electrónico**. Puede conectar su suscripción a un dominio o usar el subdominio existente que ha creado. Cuando haya terminado, elija **Siguiente**.
 
   ![Personalizar el inicio de sesión y correo electrónico](images/8a-set-up-personalize.png)
 
-5. **Agregar nuevos usuarios**. Puede agregar usuarios. Pueden ser usuarios ficticios que necesite para realizar pruebas o usuarios reales que le ayuden con el desarrollo. Cuando haya terminado, elija **Siguiente**.
+5. **Agregar nuevos usuarios**. Puede agregar usuarios. Pueden ser usuarios ficticios o usuarios reales que le ayuden con el desarrollo. Cuando haya terminado, elija **Siguiente**.
     
   > [!NOTE]
-  > Si necesita agregar usuarios en masa, puede hacerlo más adelante. Para obtener más información, vea [Agregar usuarios individualmente o de forma masiva a Office 365: ayuda para administradores](https://support.office.com/es-ES/article/add-users-individually-or-in-bulk-to-office-365-admin-help-1970f7d6-03b5-442f-b385-5880b9c256ec).
+  > Si necesita agregar usuarios en masa, puede hacerlo más adelante. Para obtener más información, vea [Agregar usuarios individualmente o de forma masiva a Office 365: ayuda para administradores](https://support.office.com/article/add-users-individually-or-in-bulk-to-office-365-admin-help-1970f7d6-03b5-442f-b385-5880b9c256ec).
 
 6. **Asignar licencias a los usuarios sin licencia**. Conceda una licencia a todos los usuarios que quiera que trabajen con la suscripción. Cuando haya terminado, elija **Siguiente**.
 
@@ -66,8 +66,8 @@ Configure una suscripción de desarrolladores de Office 365 para crear y probar 
 
   ![Instalar aplicaciones de Office](images/11-install-office-apps.png)
 
-   > [!NOTE] 
-   > En las siguientes visitas al panel, inicie sesión con su cuenta *nombredeusuario@dominio*.onmicrosoft.com antes de continuar al panel.
+   > [!TIP] 
+   > En las siguientes visitas al panel, inicie sesión con su cuenta *username@domain*onmicrosoft.com antes de continuar al panel.
 
 9. **Se ha alcanzado el final de la configuración**. Se ha completado la configuración de la suscripción. Opcionalmente, puede evaluar la experiencia. Cuando haya terminado, elija **Ir al centro de administración**.
     
@@ -78,22 +78,22 @@ Configure una suscripción de desarrolladores de Office 365 para crear y probar 
 
 Los servicios de back-end, como SharePoint y Exchange, tardarán cierto tiempo en realizar el aprovisionamiento para la suscripción. Durante este paso, algunos de los iconos del iniciador de aplicaciones y de la página principal se mostrarán como **Configurando (esta aplicación aún se está configurando)**. Esto no llevará más de una hora.
 
-Al finalizar el aprovisionamiento, puede usar la nueva suscripción de Office 365 para realizar tareas de desarrollo y pruebas. La suscripción caduca después de un año.
+Al finalizar el aprovisionamiento, puede usar la nueva suscripción de Office 365 para realizar tareas de desarrollo. La suscripción caduca después de 90 días. Para renovarla, consulte [¿puedo ampliar la suscripción cuando esté a punto de caducar?](office-365-developer-program-faq.md#renew-subscription)
 
-También le recomendamos que habilite las opciones de publicación para asegurarse de que obtiene acceso a las características más recientes de Office 365 lo antes posible. Para obtener más información, vea [Configurar las opciones de la versión estándar o dirigida en Office 365](https://support.office.com/en-us/article/set-up-the-standard-or-targeted-release-options-in-office-365-3b3adfa4-1777-4ff0-b606-fb8732101f47?ui=en-US&rs=en-US&ad=US).
+También le recomendamos que habilite las opciones de publicación para asegurarse de que obtiene acceso a las características más recientes de Office 365 lo antes posible. Para obtener más información, vea [Configurar las opciones de la versión estándar o dirigida en Office 365](https://support.office.com/article/set-up-the-standard-or-targeted-release-options-in-office-365-3b3adfa4-1777-4ff0-b606-fb8732101f47).
 
 ## <a name="set-up-a-microsoft-azure-account"></a>Configurar una cuenta de Microsoft Azure
 
-Para algunas soluciones de Office, es posible que necesite una cuenta de Microsoft Azure para compilar y realizar pruebas con los servicios de Azure. Para configurar una cuenta gratuita de Azure, vea [Crear una cuenta gratuita de Azure hoy mismo](https://azure.microsoft.com/es-ES/free/).
+Para algunas soluciones de Office, es posible que necesite una cuenta de Microsoft Azure para compilar con los servicios de Azure. Para configurar una cuenta gratuita de Azure, vea [Crear una cuenta gratuita de Azure hoy mismo](https://azure.microsoft.com/free/).
 
-## <a name="leave-the-developer-program"></a>Dejar el programa de desarrolladores
+## <a name="leave-the-office-365-developer-program"></a>Dejar el programa de desarrolladores de Office 365
 
 Si decide que ya no desea participar en el programa de desarrolladores de Office 365, puede cancelar la suscripción y dejar el programa.
 
   > [!WARNING]
   > Los pasos siguientes borrarán toda la información de su perfil. Perderá los datos almacenados en su suscripción de desarrollador que no se copien en otro lugar.
 
-1. Inicie sesión en el programa para desarrolladores.
+1. Le damos la bienvenida al programa de desarrolladores de Office 365.
 
 2. Elija **Eliminar perfil**.
 
@@ -103,4 +103,5 @@ Si decide que ya no desea participar en el programa de desarrolladores de Office
 
 - [Unirse al programa de desarrolladores de Office 365](office-365-developer-program.md)
 - [Usar la suscripción para crear soluciones de Office 365](build-office-365-solutions.md)
+- [Renovar una suscripción que va a caducar](subscription-expiration-and-renewal.md)
 - [Preguntas frecuentes del programa de desarrolladores de Office 365](office-365-developer-program-faq.md)
