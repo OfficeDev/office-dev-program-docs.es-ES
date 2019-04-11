@@ -3,12 +3,12 @@ title: Use su suscripción de desarrollador para crear soluciones de Office 365
 description: Use su suscripción de desarrollador de Office 365 para crear las soluciones que quiera.
 ms.date: 03/20/2018
 localization_priority: Priority
-ms.openlocfilehash: 375514e1bc42742810c4d8a56a59fe24140abb27
-ms.sourcegitcommit: 5d2444c7732b0312a8939cfa3671c3e7835aee3e
+ms.openlocfilehash: 624ff0c7feb8eb5a824c68e337c48bff39aed747
+ms.sourcegitcommit: 49693a2a5529e1371f0f9fac4e6f6db7dcbf010a
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/02/2019
-ms.locfileid: "31042001"
+ms.lasthandoff: 04/11/2019
+ms.locfileid: "31808103"
 ---
 # <a name="use-your-developer-subscription-to-build-office-365-solutions"></a>Use su suscripción de desarrollador para crear soluciones de Office 365
 
@@ -24,7 +24,7 @@ Aquí le mostramos cómo empezar a codificar con Microsoft Teams:
 2. Configurar el entorno de desarrollo Este proceso pueden variar según el tipo de aplicación o servicio que esté creando. Para obtener información detallada, consulte uno de los siguientes:
 
   - [Introducción a la plataforma de Microsoft Teams con Node.js](https://docs.microsoft.com/microsoftteams/platform/get-started/get-started-nodejs-app-studio)
-  - [Introducción a la plataforma de Microsoft Teams con C#/.NET]https://docs.microsoft.com/en-us/microsoftteams/platform/get-started/get-started-dotnet-app-studio)
+  - [Introducción a la plataforma de Microsoft Teams con C#/.NET](https://docs.microsoft.com/en-us/microsoftteams/platform/get-started/get-started-dotnet-app-studio)
 
 ## <a name="microsoft-graph"></a>Microsoft Graph
 
