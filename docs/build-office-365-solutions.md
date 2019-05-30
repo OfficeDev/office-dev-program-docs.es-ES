@@ -4,11 +4,11 @@ description: Use su suscripción de desarrollador de Office 365 para crear las s
 ms.date: 03/20/2018
 localization_priority: Priority
 ms.openlocfilehash: 624ff0c7feb8eb5a824c68e337c48bff39aed747
-ms.sourcegitcommit: 49693a2a5529e1371f0f9fac4e6f6db7dcbf010a
+ms.sourcegitcommit: 410ec6b3bcd545f953df04f831fbdd4954232927
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/11/2019
-ms.locfileid: "31808103"
+ms.lasthandoff: 05/28/2019
+ms.locfileid: "34490882"
 ---
 # <a name="use-your-developer-subscription-to-build-office-365-solutions"></a>Use su suscripción de desarrollador para crear soluciones de Office 365
 
@@ -21,10 +21,11 @@ Microsoft Teams es un área de trabajo basado en chat en Office 365 que se integ
 Aquí le mostramos cómo empezar a codificar con Microsoft Teams:
 
 1. [Preparar la suscripción del programa de desarrolladores de Office 365](https://docs.microsoft.com/microsoftteams/platform/get-started/get-started-tenant)
-2. Configurar el entorno de desarrollo Este proceso pueden variar según el tipo de aplicación o servicio que esté creando. Para obtener información detallada, consulte uno de los siguientes:
+2. Configurar el entorno de desarrollo Este proceso pueden variar según el tipo de aplicación o servicio que esté creando. Para obtener detalles, consulte uno de los siguientes temas:
 
   - [Introducción a la plataforma de Microsoft Teams con Node.js](https://docs.microsoft.com/microsoftteams/platform/get-started/get-started-nodejs-app-studio)
-  - [Introducción a la plataforma de Microsoft Teams con C#/.NET](https://docs.microsoft.com/en-us/microsoftteams/platform/get-started/get-started-dotnet-app-studio)
+  - 
+  [Introducción a la plataforma de Microsoft Teams con C#/.NET](https://docs.microsoft.com/es-ES/microsoftteams/platform/get-started/get-started-dotnet-app-studio)
 
 ## <a name="microsoft-graph"></a>Microsoft Graph
 
@@ -55,12 +56,12 @@ Para empezar a codificar complementos de SharePoint:
 
 - [Configurar la suscripción](https://docs.microsoft.com/sharepoint/dev/spfx/set-up-your-developer-tenant).  
 - Configurar el entorno de desarrollo: 
-  - [Introducción a la creación de Complementos de SharePoint hospedados en SharePoint](https://docs.microsoft.com/sharepoint/dev/sp-add-ins/get-started-creating-sharepoint-hosted-sharepoint-add-ins)  
-  - [Introducción a la creación de Complementos de SharePoint hospedados por el proveedor](https://docs.microsoft.com/sharepoint/dev/sp-add-ins/get-started-creating-provider-hosted-sharepoint-add-ins)  
+  - [Introducción a la creación de complementos de SharePoint hospedados en SharePoint](https://docs.microsoft.com/sharepoint/dev/sp-add-ins/get-started-creating-sharepoint-hosted-sharepoint-add-ins)  
+  - [Introducción a la creación de complementos de SharePoint hospedados por el proveedor](https://docs.microsoft.com/sharepoint/dev/sp-add-ins/get-started-creating-provider-hosted-sharepoint-add-ins)  
 
 ## <a name="see-also"></a>Vea también
 
-- [Unirse al programa de desarrolladores de Office 365.](office-365-developer-program.md)
-- [Configurar una suscripción de desarrolladores de Office 365](office-365-developer-program-get-started.md) 
+- [Unirse al programa de desarrolladores de Office 365](office-365-developer-program.md)
+- [Configurar una suscripción del programa de desarrolladores de Office 365](office-365-developer-program-get-started.md) 
 - [Renovar una suscripción que va a expirar](subscription-expiration-and-renewal.md)
 - [Preguntas frecuentes del programa de desarrolladores de Office 365](office-365-developer-program-faq.md) 

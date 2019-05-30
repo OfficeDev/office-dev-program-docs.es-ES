@@ -4,11 +4,11 @@ description: Información sobre cómo renovar una suscripción de desarrollador 
 ms.date: 04/01/2019
 localization_priority: Priority
 ms.openlocfilehash: 73a286f4a9b3cd4b85237aafcac0adf45e453e7d
-ms.sourcegitcommit: 5d2444c7732b0312a8939cfa3671c3e7835aee3e
+ms.sourcegitcommit: 410ec6b3bcd545f953df04f831fbdd4954232927
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/02/2019
-ms.locfileid: "31044687"
+ms.lasthandoff: 05/28/2019
+ms.locfileid: "34491072"
 ---
 # <a name="office-365-developer-program-subscription-expiration-and-renewal"></a>Renovación y caducidad de la suscripción del programa de desarrolladores de Office 365
 
@@ -58,7 +58,7 @@ Introdujimos las suscripciones renovables en agosto de 2018. Si se registró par
 
 Para migrar los datos de la suscripción actual a una nueva suscripción, consulte los siguientes recursos:
 
-- [Cómo migrar los buzones de correo de un inquilino de Office 365 a otro.](https://docs.microsoft.com/exchange/mailbox-migration/migrate-mailboxes-across-tenants)
+- [Cómo migrar los buzones de correo de un espacio empresarial de Office 365 a otro](https://docs.microsoft.com/exchange/mailbox-migration/migrate-mailboxes-across-tenants)
 - [Usar PowerShell para realizar una migración preconfigurada a Office 365](https://docs.microsoft.com/office365/enterprise/powershell/use-powershell-to-perform-a-staged-migration-to-office-365)
 - [Migración de una suscripción de Office 365 a otra sin necesidad de terceros](https://social.technet.microsoft.com/Forums/en-US/ee507441-eb91-4b0a-ba6c-5bd9bb8c71b1/migration-from-one-o365-tenant-to-another-o365-without-third-party?forum=onlineservicesmigrationandcoexistence)
 
@@ -70,8 +70,8 @@ Cuando se elimine la suscripción, verá una notificación en el panel indicando
 
 ## <a name="see-also"></a>Vea también
 
-- [Unirse al programa de desarrolladores de Office 365.](office-365-developer-program.md)
-- [Configurar una suscripción de desarrolladores de Office 365](office-365-developer-program-get-started.md)
+- [Unirse al programa de desarrolladores de Office 365](office-365-developer-program.md)
+- [Configurar una suscripción del programa de desarrolladores de Office 365](office-365-developer-program-get-started.md)
 - [Usar la suscripción para crear soluciones de Office 365](build-office-365-solutions.md)
 - [Preguntas frecuentes del programa de desarrolladores de Office 365](office-365-developer-program-faq.md)
 

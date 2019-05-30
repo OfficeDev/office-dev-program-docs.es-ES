@@ -4,11 +4,11 @@ description: Configure una suscripción de desarrollador de Office 365 para crea
 ms.date: 04/01/2019
 localization_priority: Priority
 ms.openlocfilehash: 32b32847b50c16c8b8f16b360318af1f18d8d69b
-ms.sourcegitcommit: 5d2444c7732b0312a8939cfa3671c3e7835aee3e
+ms.sourcegitcommit: 410ec6b3bcd545f953df04f831fbdd4954232927
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/02/2019
-ms.locfileid: "31042008"
+ms.lasthandoff: 05/28/2019
+ms.locfileid: "34490966"
 ---
 # <a name="set-up-an-office-365-developer-subscription"></a>Configurar una suscripción de desarrollador de Office 365 
 
@@ -40,7 +40,7 @@ Configure una suscripción de desarrolladores de Office 365 para crear solucione
 
 ## <a name="configure-the-subscription"></a>Cambiar la configuración de la suscripción
 
-1. En la página de perfil, seleccione el vínculo [office.com](https://www.office.com/) e inicie sesión con su Id. de usuario (por ejemplo, username@domain.onmicrosoft.com) y la contraseña que especificó para su suscripción de desarrollador.
+1. En la página de perfil, seleccione el vínculo [office.com](https://www.office.com/) e inicie sesión con su Id. de usuario (por ejemplo, nombredeusuario@dominio.onmicrosoft.com) y la contraseña que especificó para su suscripción de desarrollador.
 
    > [!NOTE] 
    > No inicie sesión en su suscripción con las credenciales del programa de desarrolladores.
@@ -67,7 +67,7 @@ Configure una suscripción de desarrolladores de Office 365 para crear solucione
   ![Instalar aplicaciones de Office](images/11-install-office-apps.png)
 
    > [!TIP] 
-   > En las siguientes visitas al panel, inicie sesión con su cuenta *username@domain*onmicrosoft.com antes de continuar al panel.
+   > En las siguientes visitas al panel, inicie sesión con su cuenta *nombredeusuario@dominio*.onmicrosoft.com antes de continuar al panel.
 
 9. **Se ha alcanzado el final de la configuración**. Se ha completado la configuración de la suscripción. Opcionalmente, puede evaluar la experiencia. Cuando haya terminado, elija **Ir al centro de administración**.
     
@@ -103,5 +103,5 @@ Si decide que ya no desea participar en el programa de desarrolladores de Office
 
 - [Unirse al programa de desarrolladores de Office 365](office-365-developer-program.md)
 - [Usar la suscripción para crear soluciones de Office 365](build-office-365-solutions.md)
-- [Renovar una suscripción que va a caducar](subscription-expiration-and-renewal.md)
+- [Renovar una suscripción que va a expirar](subscription-expiration-and-renewal.md)
 - [Preguntas frecuentes del programa de desarrolladores de Office 365](office-365-developer-program-faq.md)

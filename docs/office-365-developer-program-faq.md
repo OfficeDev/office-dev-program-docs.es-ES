@@ -3,12 +3,12 @@ title: Preguntas frecuentes del programa de desarrolladores de Office 365
 description: Preguntas más frecuentes sobre el programa de desarrolladores de Office 365.
 ms.date: 04/01/2019
 localization_priority: Priority
-ms.openlocfilehash: cc87dd169705e4ac37e521ef8ca5d8529d810fe7
-ms.sourcegitcommit: 5d2444c7732b0312a8939cfa3671c3e7835aee3e
+ms.openlocfilehash: 5b18c4e3632b8e498798e7238cbd7342c270eb8d
+ms.sourcegitcommit: 410ec6b3bcd545f953df04f831fbdd4954232927
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/02/2019
-ms.locfileid: "31042015"
+ms.lasthandoff: 05/28/2019
+ms.locfileid: "34490982"
 ---
 # <a name="office-365-developer-program-faq"></a>Preguntas frecuentes del programa de desarrolladores de Office 365
 
@@ -66,19 +66,19 @@ Para obtener más información sobre los tipos de tareas para las que se realiza
 
 Su suscripción de desarrollador incluye lo siguiente:
 
-- [Exchange Online (plan 2)](https://products.office.com/exchange/compare-microsoft-exchange-online-plans)
-- [Flow para Office 365 Plan 2](https://flow.microsoft.com/pricing/)
-- [Microsoft Forms (plan E5)](https://support.office.com/article/Frequently-asked-questions-about-Microsoft-Forms-495c4242-6102-40a0-add8-df05ed6af61c)
+- [Exchange Online (Plan 2)](https://products.office.com/exchange/compare-microsoft-exchange-online-plans)
+- [Flow para Office 365 (Plan 2)](https://flow.microsoft.com/pricing/)
+- [Microsoft Forms (Plan E5)](https://support.office.com/article/Frequently-asked-questions-about-Microsoft-Forms-495c4242-6102-40a0-add8-df05ed6af61c)
 - [Microsoft Planner](https://products.office.com/compare-all-microsoft-office-products?tab=2)
-- [Microsoft Stream para O365 E5 SKU](https://products.office.com/business/office-365-enterprise-e5-business-software)
+- [Microsoft Stream para Office 365 E5 SKU](https://products.office.com/business/office-365-enterprise-e5-business-software)
 - [Microsoft Teams](https://products.office.com/business/office-365-enterprise-e5-business-software)
 - [Administración de dispositivos móviles para Office 365](https://support.office.com/article/Set-up-Mobile-Device-Management-MDM-in-Office-365-dd892318-bc44-4eb1-af00-9db5430be3cd)
 - [Office 365 ProPlus](https://products.office.com/business/office-365-proplus-business-software)
-- [PowerApps para Office 365 Plan 2](https://powerapps.microsoft.com/pricing/)
-- [SharePoint Online para Developer](https://products.office.com/SharePoint/compare-sharepoint-plans)
-- [Skype Empresarial Online (plan 2)](https://products.office.com/skype-for-business/online-meeting-solutions)
+- [PowerApps para Office 365 (Plan 2)](https://powerapps.microsoft.com/pricing/)
+- [SharePoint Online para desarrolladores](https://products.office.com/SharePoint/compare-sharepoint-plans)
+- [Skype Empresarial Online (Plan 2)](https://products.office.com/skype-for-business/online-meeting-solutions)
 - [Sway](https://sway.com/)
-- [To-Do (plan 3)](https://todo.microsoft.com)
+- [Tareas pendientes (Plan 3)](https://todo.microsoft.com)
 
 ## <a name="does-the-subscription-also-include-a-subscription-to-azure"></a>¿La suscripción también incluye una suscripción a Azure?
 
@@ -142,7 +142,7 @@ Si tiene problemas con la configuración de la suscripción, vea los siguientes 
 ## <a name="see-also"></a>Vea también
 
 - [Unirse al programa de desarrolladores de Office 365](office-365-developer-program.md)
-- [Configurar una suscripción de desarrollador de Office 365](office-365-developer-program-get-started.md)
+- [Configurar una suscripción del programa de desarrolladores de Office 365](office-365-developer-program-get-started.md)
 - [Usar la suscripción para crear soluciones de Office 365](build-office-365-solutions.md)
 - [Renovar una suscripción que va a expirar](subscription-expiration-and-renewal.md)
 
