@@ -2,12 +2,12 @@
 title: Usar paquetes de datos de ejemplo con su suscripción de desarrollador de Office 365
 description: Aprenda cómo instalar paquetes de datos de ejemplo con su suscripción de desarrollador de Office 365 para que su entorno aislado comience a trabajar rápidamente.
 localization_priority: Priority
-ms.openlocfilehash: 16e605080673678b750ebeab4501ceb980cea6cb
-ms.sourcegitcommit: 76c5e3c9b58026471378e7634d121842690fd517
+ms.openlocfilehash: 8c6c5c634080e951ca2e60d0d6236db1331d44ae
+ms.sourcegitcommit: 6b77e649d1be568a71b6ec572f9d0d2c7cea6f3e
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/10/2019
-ms.locfileid: "35618872"
+ms.lasthandoff: 07/25/2019
+ms.locfileid: "35902356"
 ---
 # <a name="use-sample-data-packs-with-your-office-365-developer-subscription"></a>Usar paquetes de datos de ejemplo con su suscripción de desarrollador de Office 365
 
@@ -86,7 +86,16 @@ Sí. Agregaremos paquetes de datos de ejemplo para SharePoint y OneDrive. En el 
 
 ## <a name="can-i-install-sample-data-packs-on-my-other-office-365-subscriptions"></a>¿Puedo instalar paquetes de datos de ejemplo en mis otras suscripciones de Office 365?
 
-No. Estos paquetes de datos de ejemplo solo son compatibles con las suscripciones de desarrollador de Office 365 que recibe como parte del programa para desarrolladores de Office 365.
+No. Estos paquetes de datos de ejemplo solo son compatibles con la suscripción de desarrollador de Office 365 que recibe como parte del programa de desarrolladores de Office 365.
+
+## <a name="how-can-i-see-the-sample-data-in-my-subscription"></a>¿Cómo puedo ver los datos de ejemplo en mi suscripción?
+
+Después de instalar el paquete de datos de ejemplo de los usuarios, para ver los usuarios que se han añadido, vaya al **Centro de administración de Microsoft 365** en su suscripción de desarrollador de Office 365. En **Usuarios**, seleccione **Usuarios activos**. Verá una lista de 16 usuarios. Puede seleccionar un usuario para ver los metadatos asociados, incluidas las fotos y las licencias.
+
+![Captura de pantalla de 16 usuarios en el Centro de administración de Microsoft 365, con metadatos de un usuario seleccionado](images/content-packs-07.PNG)
+
+Después de instalar el paquete de ejemplos de correo y eventos, para ver los datos de ejemplo, elija **Mostrar todo** y, después, seleccione **Exchange** en el **Centro de administración de Microsoft 365**. En el Centro de administración de Exchange, al seleccionar **destinatarios**, puede ver que cada uno de los 16 usuarios tienen buzones de correo con correo y eventos añadidos.
+![Captura de pantalla de 16 usuarios añadidos al Centro de administración de Exchange](images/content-packs-08.PNG)
 
 ## <a name="see-also"></a>Vea también
 
