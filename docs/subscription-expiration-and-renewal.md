@@ -3,12 +3,12 @@ title: Renovación y caducidad de la suscripción del programa de desarrolladore
 description: Información sobre cómo renovar una suscripción de desarrollador que va a expirar.
 ms.date: 04/01/2019
 localization_priority: Priority
-ms.openlocfilehash: 73a286f4a9b3cd4b85237aafcac0adf45e453e7d
-ms.sourcegitcommit: 410ec6b3bcd545f953df04f831fbdd4954232927
+ms.openlocfilehash: d22afb89b1f7d1c537ab3153876d3f227b33f1e2
+ms.sourcegitcommit: dcd023e761e89104a588768d71fc966729280e24
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/28/2019
-ms.locfileid: "34491072"
+ms.lasthandoff: 07/29/2019
+ms.locfileid: "35922108"
 ---
 # <a name="office-365-developer-program-subscription-expiration-and-renewal"></a>Renovación y caducidad de la suscripción del programa de desarrolladores de Office 365
 
@@ -38,7 +38,7 @@ También necesitará migrar los datos importantes que quiera guardar en la nueva
 
 ## <a name="renewable-subscriptions"></a>Suscripciones renovables
 
-Si se registró para la suscripción antes de agosto de 2018, es posible que tenga una suscripción renovable. Si la suscripción está inactiva, verá la siguiente advertencia en el panel. 
+Si se registró para la suscripción después de agosto de 2018, es posible que tenga una suscripción renovable. Si la suscripción está inactiva, verá la siguiente advertencia en el panel. 
 
 <img alt="Screenshot of a text box with the title This subscription is inactive and expires soon" src="images/15-renewable-notice-yellow.png" width="500"> 
 
