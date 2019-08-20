@@ -4,6 +4,8 @@
   href: office-365-developer-program-get-started.md
 - name: Soluciones de compilación
   href: build-office-365-solutions.md
+- name: Usar paquetes de datos de ejemplo
+  href: install-sample-packs.md
 - name: Expiración y renovación de la suscripción
   href: subscription-expiration-and-renewal.md
 - name: Preguntas frecuentes sobre el programa de desarrolladores
