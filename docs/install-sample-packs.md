@@ -2,12 +2,12 @@
 title: Usar paquetes de datos de ejemplo con su suscripción de desarrollador de Office 365
 description: Aprenda cómo instalar paquetes de datos de ejemplo con su suscripción de desarrollador de Office 365 para que su entorno aislado comience a trabajar rápidamente.
 localization_priority: Priority
-ms.openlocfilehash: 8c6c5c634080e951ca2e60d0d6236db1331d44ae
-ms.sourcegitcommit: 6b77e649d1be568a71b6ec572f9d0d2c7cea6f3e
+ms.openlocfilehash: 29bdd3cebeaf4a2f70d1482fe1c57480cd083756
+ms.sourcegitcommit: e8d857460e4fd5842bdfbd2a9d60f4fba55edcd0
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/25/2019
-ms.locfileid: "35902356"
+ms.lasthandoff: 08/20/2019
+ms.locfileid: "36465129"
 ---
 # <a name="use-sample-data-packs-with-your-office-365-developer-subscription"></a>Usar paquetes de datos de ejemplo con su suscripción de desarrollador de Office 365
 
@@ -15,7 +15,7 @@ Puede instalar paquetes de datos de ejemplo con su suscripción de desarrollador
 
 Puede encontrar paquetes de datos de ejemplo en el [Panel del programa para desarrolladores de Office 365](https://developer.microsoft.com/office/profile), en la parte inferior del icono de la suscripción a Office 365.
 
-![Captura de pantalla del icono de suscripción en la página del panel](images/content-packs-06.PNG)
+![Captura de pantalla del icono de suscripción en la página del panel](images/sample-data-pack-ux-tile-users-beginning.PNG)
 
 Los siguientes paquetes de datos de ejemplo están disponibles actualmente:
 
@@ -45,6 +45,9 @@ El paquete de datos de ejemplo de Correo y Eventos agrega conversaciones de corr
 
 Antes de instalar el paquete de datos de ejemplo de Usuarios, asegúrese de tener una suscripción de desarrollador de Office 365 y de asignarse a sí mismo una licencia de administrador.
 
+> [!NOTE]
+> Asegúrese de que tiene 16 usuarios disponibles en la suscripción. La suscripción incluye 25 usuarios. Si ya ha configurado más de 10 usuarios, primero quite algunos de ellos para asegurarse de que la instalación se ha realizado correctamente.
+
 Para instalar el paquete de datos de ejemplo de Usuarios:
 
 1. Seleccione el cuadro **Usuarios** en la parte inferior del icono de suscripción.
@@ -52,19 +55,19 @@ Para instalar el paquete de datos de ejemplo de Usuarios:
 3. Escriba su Id. de administrador y su contraseña en la página de inicio de sesión.
 4. Conceda el consentimiento para los permisos de administrador de la suscripción de desarrollador de Office 365.
 
-![Captura de pantalla que muestra el cuadro de diálogo para el consentimiento de permisos](images/content-packs-01.png)
+![Captura de pantalla que muestra el cuadro de diálogo para el consentimiento de permisos](images/sample-data-pack-ux-tile-users-consent-with-permissions-combined.PNG)
 
 5. Configure las contraseñas para todos los usuarios de ejemplo. Tendrá que tener una contraseña compartida definida para administrar fácilmente todos los usuarios ficticios.
 
-![Captura de pantalla del cuadro de diálogo para agregar una contraseña de usuario compartida](images/content-packs-02.png)
+![Captura de pantalla del cuadro de diálogo para agregar una contraseña de usuario compartida](images/sample-data-pack-ux-tile-users-fake-user-password-creation.PNG)
 
 6. Se instalarán los datos. La instalación debería tardar unos 5 minutos.
 
-![Captura de pantalla que muestra el proceso de instalación en el icono del panel](images/content-packs-03.PNG)
+![Captura de pantalla que muestra el proceso de instalación en el icono del panel](images/sample-data-pack-ux-tile-users-installing-status.PNG)
 
 7. Cuando finalice la instalación, recibirá una notificación por correo electrónico y el cuadro del icono de la suscripción estará en verde. Ahora puede instalar el paquete de datos de ejemplo de Correo y Eventos.
 
-![Captura de pantalla del icono del panel cuando Correo y Eventos están listos para instalarse](images/content-packs-04.PNG)
+![Captura de pantalla del icono del panel cuando Correo y Eventos están listos para instalarse](images/sample-data-pack-ux-tile-users-installed.PNG)
 
 ## <a name="how-do-i-install-the-mail-and-events-sample-data-pack"></a>¿Cómo instalar el paquete de datos de ejemplo de Correo y Eventos?
 
@@ -73,7 +76,7 @@ Una vez que haya instalado el paquete de datos de ejemplo de Usuarios, puede pro
 1. Elija el cuadro **Correo &amp; Eventos** en el icono de la suscripción.
 2. Seleccione **Instalar** para comenzar la instalación.
 
-![Captura de pantalla del cuadro de diálogo instalar](images/content-packs-05.png)
+![Captura de pantalla del cuadro de diálogo instalar](images/sample-data-pack-ux-tile-mail-and-events-begin-install.PNG)
 
 > [!NOTE]
 > Si acaba de crear su suscripción, la misma debe estar completamente aprovisionada antes de poder iniciar la instalación. Esto puede tardar algunas horas. Una vez iniciada la instalación, puede tardar hasta 20 minutos en finalizar.
