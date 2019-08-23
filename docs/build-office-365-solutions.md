@@ -24,8 +24,7 @@ Aquí le mostramos cómo empezar a codificar con Microsoft Teams:
 2. Configurar el entorno de desarrollo Este proceso pueden variar según el tipo de aplicación o servicio que esté creando. Para obtener detalles, consulte uno de los siguientes temas:
 
   - [Introducción a la plataforma de Microsoft Teams con Node.js](https://docs.microsoft.com/microsoftteams/platform/get-started/get-started-nodejs-app-studio)
-  - 
-  [Introducción a la plataforma de Microsoft Teams con C#/.NET](https://docs.microsoft.com/es-ES/microsoftteams/platform/get-started/get-started-dotnet-app-studio)
+  - [Introducción a la plataforma de Microsoft Teams con C#/.NET](https://docs.microsoft.com/es-ES/microsoftteams/platform/get-started/get-started-dotnet-app-studio)
 
 ## <a name="microsoft-graph"></a>Microsoft Graph
 

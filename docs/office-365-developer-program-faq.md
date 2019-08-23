@@ -68,25 +68,21 @@ Su suscripción de desarrollador incluye lo siguiente:
 
 - [Exchange Online (Plan 2)](https://products.office.com/exchange/compare-microsoft-exchange-online-plans)
 - [Flow para Office 365](https://flow.microsoft.com/pricing/)
-- 
-  [Information Protection para Office 365 - Estándar](https://products.office.com/es-ES/business/azure-information-protection-for-office-365)
+- [Information Protection para Office 365 - Estándar](https://products.office.com/es-ES/business/azure-information-protection-for-office-365)
 - [Microsoft Forms (Plan E5)](https://support.office.com/article/Frequently-asked-questions-about-Microsoft-Forms-495c4242-6102-40a0-add8-df05ed6af61c)
 - [Microsoft Planner](https://products.office.com/compare-all-microsoft-office-products?tab=2)
-- 
-  [Búsqueda de Microsoft](https://products.office.com/es-ES/business/intelligent-search?tab=Discovery)
+- [Búsqueda de Microsoft](https://products.office.com/es-ES/business/intelligent-search?tab=Discovery)
 - [Microsoft Stream para Office 365 E5 SKU](https://products.office.com/business/office-365-enterprise-e5-business-software)
 - [Microsoft Teams](https://products.office.com/business/office-365-enterprise-e5-business-software)
 - [Administración de dispositivos móviles para Office 365](https://support.office.com/article/Set-up-Mobile-Device-Management-MDM-in-Office-365-dd892318-bc44-4eb1-af00-9db5430be3cd)
 - [Office 365 ProPlus](https://products.office.com/business/office-365-proplus-business-software)
-- 
-  [Office para la Web](https://docs.microsoft.com/es-ES/office365/servicedescriptions/office-online-service-description/office-online-service-description)
+- [Office para la Web](https://docs.microsoft.com/es-ES/office365/servicedescriptions/office-online-service-description/office-online-service-description)
 - [PowerApps para Office 365](https://powerapps.microsoft.com/pricing/)
 - [SharePoint Online para desarrolladores](https://products.office.com/SharePoint/compare-sharepoint-plans)
 - [Skype Empresarial Online (Plan 2)](https://products.office.com/skype-for-business/online-meeting-solutions)
 - [Sway](https://sway.com/)
 - [Tareas pendientes (Plan 3)](https://todo.microsoft.com)
-- 
-  [Whiteboard (Plan 2)](https://products.office.com/es-ES/microsoft-whiteboard/digital-whiteboard-app)
+- [Whiteboard (Plan 2)](https://products.office.com/es-ES/microsoft-whiteboard/digital-whiteboard-app)
 
 ## <a name="does-the-subscription-also-include-a-subscription-to-azure"></a>¿La suscripción también incluye una suscripción a Azure?
 
