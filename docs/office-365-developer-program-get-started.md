@@ -1,18 +1,20 @@
 ---
-title: Configurar una suscripción de desarrollador de Office 365
+title: Configurar una suscripción de Microsoft 365 Developer
 description: Configure una suscripción de desarrollador de Office 365 para crear soluciones independientes de su entorno de producción.
 ms.date: 04/01/2019
 localization_priority: Priority
-ms.openlocfilehash: 32b32847b50c16c8b8f16b360318af1f18d8d69b
-ms.sourcegitcommit: 410ec6b3bcd545f953df04f831fbdd4954232927
+ms.openlocfilehash: c66af5cd905d82d938ee6f2c2ffeb34cccaf3c45
+ms.sourcegitcommit: a5c196fe86b0bcf5e0638084c197a0b857b4acc4
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/28/2019
-ms.locfileid: "34490966"
+ms.lasthandoff: 09/03/2019
+ms.locfileid: "36713894"
 ---
-# <a name="set-up-an-office-365-developer-subscription"></a>Configurar una suscripción de desarrollador de Office 365 
+# <a name="set-up-a-microsoft-365-developer-subscription"></a>Configurar una suscripción de Microsoft 365 Developer 
 
-Configure una suscripción de desarrolladores de Office 365 para crear soluciones independientes de su entorno de producción. La suscripción es una suscripción a Office 365 Enterprise E3 Developer con 25 licencias de usuario. Tiene una duración de 90 días y es gratuita para fines de desarrollo (codificación de soluciones).
+Configure una suscripción de Microsoft 365 Developer para crear soluciones independientes de su entorno de producción. Es una suscripción de Microsoft 365 E5 Developer con 25 licencias de usuario. Tiene una duración de 90 días y es gratuita solo para fines de desarrollo (codificación de soluciones). 
+
+Los clientes que se han unido al programa antes del 25 de agosto de 2019 tienen una suscripción de Office 365 E3 Developer.
 
 > [!NOTE] 
 > Para configurar una suscripción, primero debe [Unirse al programa de desarrolladores de Office 365](office-365-developer-program.md). Después de unirse, verá la opción para configurar una suscripción.

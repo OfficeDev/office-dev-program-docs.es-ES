@@ -3,12 +3,12 @@ title: Preguntas frecuentes del programa de desarrolladores de Office 365
 description: Preguntas más frecuentes sobre el programa de desarrolladores de Office 365.
 ms.date: 04/01/2019
 localization_priority: Priority
-ms.openlocfilehash: 8ac783772bd08bb4bcde6b775fc8c58b79595307
-ms.sourcegitcommit: e8d195d7e27198b13360c0de7435514c950e0bad
+ms.openlocfilehash: 9747238ed915f0b122ac9bf924d0d850d0dd55ad
+ms.sourcegitcommit: a5c196fe86b0bcf5e0638084c197a0b857b4acc4
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/26/2019
-ms.locfileid: "35916895"
+ms.lasthandoff: 09/03/2019
+ms.locfileid: "36713907"
 ---
 # <a name="office-365-developer-program-faq"></a>Preguntas frecuentes del programa de desarrolladores de Office 365
 
@@ -62,11 +62,12 @@ Su actividad en el programa de desarrolladores de Office 365 y su suscripción d
 
 Para obtener más información sobre los tipos de tareas para las que se realiza un seguimiento, consulte los [términos de uso de la suscripción de desarrollador de Office 365](terms-and-conditions.md). 
 
-## <a name="whats-included-in-the-office-365-developer-subscription"></a>¿Qué incluye la suscripción de desarrollador de Office 365?
+## <a name="whats-included-in-the-developer-subscription"></a>¿Qué incluye la suscripción de desarrollador?
+Si creó la suscripción después del 25 de agosto de 2019, tiene una suscripción de Microsoft 365 E5 Developer con 25 licencias de usuario. Los clientes que se han unido al programa antes del 25 de agosto de 2019, tienen una suscripción de Office 365 E3 Developer con 25 licencias de usuario.
 
-Su suscripción de desarrollador incluye lo siguiente:
+La suscripción de Office 365 E3 Developer incluye lo siguiente:
 
-- [Exchange Online (Plan 2)](https://products.office.com/exchange/compare-microsoft-exchange-online-plans)
+- [Exchange Online (plan 2)](https://products.office.com/exchange/compare-microsoft-exchange-online-plans)
 - [Flow para Office 365](https://flow.microsoft.com/pricing/)
 - [Information Protection para Office 365 - Estándar](https://products.office.com/es-ES/business/azure-information-protection-for-office-365)
 - [Microsoft Forms (Plan E5)](https://support.office.com/article/Frequently-asked-questions-about-Microsoft-Forms-495c4242-6102-40a0-add8-df05ed6af61c)
@@ -82,7 +83,70 @@ Su suscripción de desarrollador incluye lo siguiente:
 - [Skype Empresarial Online (Plan 2)](https://products.office.com/skype-for-business/online-meeting-solutions)
 - [Sway](https://sway.com/)
 - [Tareas pendientes (Plan 3)](https://todo.microsoft.com)
-- [Whiteboard (Plan 2)](https://products.office.com/es-ES/microsoft-whiteboard/digital-whiteboard-app)
+- [Whiteboard (plan 2)](https://products.office.com/es-ES/microsoft-whiteboard/digital-whiteboard-app)
+
+La suscripción de Microsoft 365 E5 Developer contiene todas las aplicaciones que se incluyen en la suscripción de Office 365 E3 Developer, además de las siguientes características nuevas:  
+
+- Análisis avanzado con Power BI  
+- Enterprise Mobility + Security (EMS) para la protección de la información y el cumplimiento normativo  
+- Protección contra amenazas avanzada de Office 365 
+- Azure Active Directory para crear soluciones de administración de identidades y acceso avanzadas  
+
+La suscripción de Microsoft 365 E5 Developer incluye lo siguiente: 
+
+- Azure Active Directory Premium P1 
+- Azure Active Directory Premium P2 
+-   Azure Advanced Threat Protection 
+-   Azure Information Protection Premium P1 
+-   Azure Information Protection Premium P2 
+-   Caja de seguridad del cliente 
+-   Exchange Online (plan 2) 
+-   Flow para Office 365 
+-   Information Protection para Office 365 - Premium 
+-   Information Protection para Office 365 - Estándar 
+-   Microsoft Azure Active Directory Rights 
+-   Microsoft Azure Multi-Factor Authentication 
+-   Microsoft Cloud App Security 
+-   Microsoft Forms (plan E5) 
+-   Microsoft Intune 
+-   Microsoft MyAnalytics (Completo) 
+-   Microsoft Planner 
+-   Microsoft StaffHub 
+-   Microsoft Stream para O365 E5 SKU 
+-   Microsoft Teams 
+-   Administración de dispositivos móviles para Office 365 
+-   eDiscovery avanzado de Office 365 
+-   Administración de seguridad avanzada de Office 365 
+-   Protección contra amenazas avanzada de Office 365 (plan 1) 
+-   Protección contra amenazas avanzada de Office 365 (plan 2) 
+-   Office 365 Privileged Access Management 
+-   Office 365 ProPlus 
+-   Office Online 
+-   Sistema telefónico 
+-   Power BI Pro 
+-   PowerApps para Office 365 (plan 3) 
+-   SharePoint Online (plan 2) 
+-   Skype Empresarial Online (Plan 2) 
+-   Sway 
+-   To-Do (plan 3) 
+-   Whiteboard (plan 3) 
+-   Yammer Enterprise 
+
+## <a name="how-do-i-know-which-subscription-i-have"></a>¿Cómo sé qué suscripción tengo?
+
+Puede determinar si tiene una suscripción de Microsoft 365 E5 o una suscripción de Office 365 E3 en el icono de suscripción de su [panel](https://developer.microsoft.com/office/profile). El icono mostrará E3 o E5 debajo del nombre de dominio de la suscripción.
+
+![Captura de pantalla de un icono de suscripción con E5 resaltado](images/subscription-tile-e5.png).
+
+## <a name="how-can-i-migrate-from-an-office-365-e3-subscription-to-a-microsoft-365-e5-subscription"></a>¿Cómo puedo migrar de una suscripción de Office 365 E3 a una suscripción de Microsoft 365 E5?
+
+Actualmente, solo los nuevos miembros del programa Office 365 Developer recibirán una suscripción de Microsoft 365 E5 Developer automáticamente. En el futuro, se ofrecerá a los usuarios existentes un método para migrar a una suscripción de Microsoft 365 E5. Quédese tranquilo, estamos trabajando para que todos los miembros del programa Office 365 Developer puedan migrar a Microsoft 365 E5. 
+
+## <a name="can-i-choose-whether-to-have-an-office-365-e3-or-a-microsoft-365-e5-subscription"></a>¿Puedo elegir si tener una suscripción de Office 365 E3 o Microsoft 365 E5?
+
+Actualmente, solo se ofrece una suscripción de Microsoft 365 E5 a los nuevos miembros del programa de desarrolladores. Los miembros existentes con una suscripción de Office 365 E3 tendrán la opción de mantener la suscripción actual y seguir renovándola si no necesitan las nuevas funciones ofrecidas en Microsoft 365 E5. Los miembros del programa de desarrolladores solo pueden tener una suscripción.  
+
+Cuando tengamos una opción de migración para los miembros del programa de desarrolladores existentes, se proporcionará más información sobre cómo realizar la migración. 
 
 ## <a name="does-the-subscription-also-include-a-subscription-to-azure"></a>¿La suscripción también incluye una suscripción a Azure?
 
