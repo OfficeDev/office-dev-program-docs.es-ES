@@ -3,12 +3,12 @@ title: Configurar una suscripción de Microsoft 365 Developer
 description: Configure una suscripción de desarrollador de Office 365 para crear soluciones independientes de su entorno de producción.
 ms.date: 04/01/2019
 localization_priority: Priority
-ms.openlocfilehash: c66af5cd905d82d938ee6f2c2ffeb34cccaf3c45
-ms.sourcegitcommit: a5c196fe86b0bcf5e0638084c197a0b857b4acc4
+ms.openlocfilehash: 224fbae373f28250cb6673353edac19ed4ce0b64
+ms.sourcegitcommit: 9f3e21074fb96c7af93bad8bccbe24707c80c90a
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/03/2019
-ms.locfileid: "36713894"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36717520"
 ---
 # <a name="set-up-a-microsoft-365-developer-subscription"></a>Configurar una suscripción de Microsoft 365 Developer 
 
@@ -21,9 +21,7 @@ Los clientes que se han unido al programa antes del 25 de agosto de 2019 tienen 
 
 ## <a name="set-up-your-subscription"></a>Configurar la suscripción
 
-1. Para obtener una suscripción de desarrolladores de Office 365, vaya a su página de perfil y en **¿Necesita una suscripción a Office 365 para labores de desarrollo?**, elija **Configurar suscripción**.
-
-  ![Configurar suscripción](images/4-set-up-subscription.png)
+1. Para obtener una suscripción para desarrolladores de Office 365, en su página de perfil elija **Configurar suscripción**.
 
 2. En el cuadro de diálogo **Configurar la suscripción de desarrollador**, cree un nombre de usuario y un dominio. Esta cuenta tendrá permisos de administrador global para la suscripción. Puede elegir cualquier nombre de dominio o nombre de usuario mientras no estén en uso. No use espacios.
 
@@ -42,14 +40,14 @@ Los clientes que se han unido al programa antes del 25 de agosto de 2019 tienen 
 
 ## <a name="configure-the-subscription"></a>Cambiar la configuración de la suscripción
 
-1. En la página de perfil, seleccione el vínculo [office.com](https://www.office.com/) e inicie sesión con su Id. de usuario (por ejemplo, nombredeusuario@dominio.onmicrosoft.com) y la contraseña que especificó para su suscripción de desarrollador.
+1. En la página de perfil, seleccione **Ir a la suscripción** e inicie sesión con su Id. de usuario (por ejemplo, nombredeusuario@dominio.onmicrosoft.com) y la contraseña que especificó para su suscripción de desarrollador.
 
    > [!NOTE] 
    > No inicie sesión en su suscripción con las credenciales del programa de desarrolladores.
 
-2. Use el iniciador de aplicaciones para ir al [Centro de administración](https://portal.office.com/adminportal/home#/homepage).
+2. Use el iniciador de aplicaciones para ir al [Centro de administración](https://admin.microsoft.com/AdminPortal/Home#/homepage).
 
-3. En la página principal del centro de administración, elija **Ir a la configuración**. Esto le lleva a la página **Configuración de Office 365 Enterprise E3 Developer**.
+3. En la página principal del centro de administración, elija **Ir a la configuración**. Esto le llevará a la página de configuración para **desarrolladores de Microsoft 365 E5**.
 
 4. **Personalizar el inicio de sesión y correo electrónico**. Puede conectar su suscripción a un dominio o usar el subdominio existente que ha creado. Cuando haya terminado, elija **Siguiente**.
 
