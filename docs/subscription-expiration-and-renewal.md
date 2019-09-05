@@ -3,12 +3,12 @@ title: Renovación y caducidad de la suscripción del programa de desarrolladore
 description: Información sobre cómo renovar una suscripción de desarrollador que va a expirar.
 ms.date: 04/01/2019
 localization_priority: Priority
-ms.openlocfilehash: d22afb89b1f7d1c537ab3153876d3f227b33f1e2
-ms.sourcegitcommit: dcd023e761e89104a588768d71fc966729280e24
+ms.openlocfilehash: f0be068369de8456bea86094139292a723938e31
+ms.sourcegitcommit: 2bc24a4f9dabc39b293698342ce0bf85bd117cdf
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/29/2019
-ms.locfileid: "35922108"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36747120"
 ---
 # <a name="office-365-developer-program-subscription-expiration-and-renewal"></a>Renovación y caducidad de la suscripción del programa de desarrolladores de Office 365
 
@@ -46,7 +46,7 @@ Cuando su suscripción expire, verá el siguiente texto de advertencia.
 
 <img alt="Screenshot of a text box with the title This subscription expired on Feb 1, 2019" src="images/16-renewable-notice-red.png" width="500"> 
 
-Si es un desarrollador activado, la suscripción se renovará automáticamente por otros 90 días. 
+Si es un desarrollador activo, la suscripción se renovará automáticamente por otros 90 días a partir de la fecha de expiración original. 
 
 ## <a name="why-isnt-my-current-subscription-renewable"></a>¿Por qué no es renovable la suscripción actual?
 
