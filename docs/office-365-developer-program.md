@@ -3,12 +3,12 @@ title: Unirse al programa de desarrolladores de Office 365.
 description: Únase al programa de desarrolladores de Office 365 para desarrollar soluciones de Office 365 independientes de su entorno de producción.
 ms.date: 04/01/2019
 localization_priority: Priority
-ms.openlocfilehash: a2c6c6436b915503463c30fb613c11949770b9b2
-ms.sourcegitcommit: 410ec6b3bcd545f953df04f831fbdd4954232927
+ms.openlocfilehash: b8aeda4e17a526c8afffcbb8f055c3c937f74661
+ms.sourcegitcommit: a8fbf7863c2bc26a7467270c732e9d15d3cced2d
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/28/2019
-ms.locfileid: "34491031"
+ms.lasthandoff: 09/26/2019
+ms.locfileid: "37275461"
 ---
 # <a name="welcome-to-the-office-365-developer-program"></a>Le damos la bienvenida al programa de desarrolladores de Office 365
 
@@ -18,7 +18,10 @@ ms.locfileid: "34491031"
 
 1. Vaya a la página [Unirse al programa de desarrolladores de Office 365](https://developer.microsoft.com/office/dev-program). 
 
-2. En la esquina superior derecha, elija **Iniciar sesión** para iniciar sesión con su cuenta de Microsoft o el correo electrónico habilitado para Azure Active Directory. 
+2. En la esquina superior derecha, elija **Iniciar sesión** para iniciar sesión con su cuenta de Microsoft o el correo electrónico habilitado para Azure Active Directory.
+
+    > [!NOTE]
+    > Recuerde la cuenta con la que inicia sesión. Inicie sesión en el panel [del programa para desarrolladores ](https://developer.microsoft.com/office/profile)con esta cuenta. Esta cuenta es diferente al identificador de administración que usará para la suscripción a desarrolladores de Microsoft 35.
 
   <img alt="Join the Office 365 Developer Program Sign-in" src="images/0-sign-in-page.png" width="700">
 

@@ -3,12 +3,12 @@ title: Configurar una suscripción de Microsoft 365 Developer
 description: Configure una suscripción de desarrollador de Office 365 para crear soluciones independientes de su entorno de producción.
 ms.date: 04/01/2019
 localization_priority: Priority
-ms.openlocfilehash: 224fbae373f28250cb6673353edac19ed4ce0b64
-ms.sourcegitcommit: 9f3e21074fb96c7af93bad8bccbe24707c80c90a
+ms.openlocfilehash: eadab2c1274260c1b5697bcd3f0473d1469a78c2
+ms.sourcegitcommit: a8fbf7863c2bc26a7467270c732e9d15d3cced2d
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36717520"
+ms.lasthandoff: 09/26/2019
+ms.locfileid: "37275454"
 ---
 # <a name="set-up-a-microsoft-365-developer-subscription"></a>Configurar una suscripción de Microsoft 365 Developer 
 
@@ -51,8 +51,6 @@ Los clientes que se han unido al programa antes del 25 de agosto de 2019 tienen 
 
 4. **Personalizar el inicio de sesión y correo electrónico**. Puede conectar su suscripción a un dominio o usar el subdominio existente que ha creado. Cuando haya terminado, elija **Siguiente**.
 
-  ![Personalizar el inicio de sesión y correo electrónico](images/8a-set-up-personalize.png)
-
 5. **Agregar nuevos usuarios**. Puede agregar usuarios. Pueden ser usuarios ficticios o usuarios reales que le ayuden con el desarrollo. Cuando haya terminado, elija **Siguiente**.
     
   > [!NOTE]
@@ -63,8 +61,6 @@ Los clientes que se han unido al programa antes del 25 de agosto de 2019 tienen 
 7. **Compartir las credenciales de inicio de sesión**. Debe compartir sus credenciales de inicio de sesión con los usuarios reales que tendrán acceso a la suscripción. Puede elegir un método, como enviar por correo electrónico, descargar o imprimir. Cuando haya terminado, elija **Siguiente**.
 
 8. **Instalar las aplicaciones de Office**. Tiene la opción de instalar las aplicaciones de Office en su equipo. Cuando haya terminado, elija **Siguiente**.
-
-  ![Instalar aplicaciones de Office](images/11-install-office-apps.png)
 
    > [!TIP] 
    > En las siguientes visitas al panel, inicie sesión con su cuenta *nombredeusuario@dominio*.onmicrosoft.com antes de continuar al panel.
