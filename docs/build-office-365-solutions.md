@@ -24,13 +24,13 @@ Aquí le mostramos cómo empezar a codificar con Microsoft Teams:
 2. Configurar el entorno de desarrollo Este proceso pueden variar según el tipo de aplicación o servicio que esté creando. Para obtener detalles, consulte uno de los siguientes temas:
 
   - [Introducción a la plataforma de Microsoft Teams con Node.js](https://docs.microsoft.com/microsoftteams/platform/get-started/get-started-nodejs-app-studio)
-  - [Introducción a la plataforma de Microsoft Teams con C#/.NET](https://docs.microsoft.com/es-ES/microsoftteams/platform/get-started/get-started-dotnet-app-studio)
+  - [Introducción a la plataforma de Microsoft Teams con C#/.NET](https://docs.microsoft.com/en-us/microsoftteams/platform/get-started/get-started-dotnet-app-studio)
 
 ## <a name="microsoft-graph"></a>Microsoft Graph
 
 Puede usar Microsoft Graph para interactuar con los datos de millones de usuarios en la nube de Microsoft. Use Microsoft Graph para compilar aplicaciones para organizaciones y consumidores que se conectan a una gran cantidad de recursos, relaciones e información, todo ello a través de un único punto de conexión: `https://graph.microsoft.com`.
 
-Para empezar a codificar con Microsoft Graph, consulte [Introducción a la compilación de aplicaciones de Microsoft Graph](https://developer.microsoft.com/es-ES/graph/get-started) o el [Inicio rápido](https://developer.microsoft.com/es-ES/graph/quick-start) de Microsoft Graph.
+Para empezar a codificar con Microsoft Graph, consulte [Introducción a la compilación de aplicaciones de Microsoft Graph](https://developer.microsoft.com/en-us/graph/get-started) o el [Inicio rápido](https://developer.microsoft.com/en-us/graph/quick-start) de Microsoft Graph.
 
 ## <a name="office-add-ins"></a>Complementos de Office
 
