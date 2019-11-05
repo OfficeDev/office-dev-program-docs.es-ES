@@ -3,12 +3,12 @@ title: Preguntas frecuentes del programa de desarrolladores de Office 365
 description: Preguntas más frecuentes sobre el programa de desarrolladores de Office 365.
 ms.date: 04/01/2019
 localization_priority: Priority
-ms.openlocfilehash: acf847e4d6c7f06058b78383ab4e425cee3745d6
-ms.sourcegitcommit: a8fbf7863c2bc26a7467270c732e9d15d3cced2d
+ms.openlocfilehash: db2fc80d496238d090b4528e26f6afda7ccc2696
+ms.sourcegitcommit: 039e897679aa937a27a34b13ce94deffcaca5228
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/26/2019
-ms.locfileid: "37275447"
+ms.lasthandoff: 11/04/2019
+ms.locfileid: "37962243"
 ---
 # <a name="office-365-developer-program-faq"></a>Preguntas frecuentes del programa de desarrolladores de Office 365
 
@@ -187,7 +187,7 @@ Sí, puede seguir [estas instrucciones](office-365-developer-program.md) para un
 
 ## <a name="as-a-full-time-microsoft-employee-can-i-receive-a-subscription"></a>Como empleado a tiempo completo de Microsoft, ¿puedo recibir una suscripción?
 
-Los empleados de Microsoft no pueden inscribirse en esta oferta. Sin embargo, todos los empleados a tiempo completo de Microsoft tienen acceso a una suscripción gratuita de Visual Studio (MSDN) que incluye el acceso a Office E3 Developer. Puede acceder a este beneficio en [Visual Studio | Mis beneficios](https://my.visualstudio.com/benefits).
+Los empleados de Microsoft no pueden inscribirse en esta oferta. Todos los empleados a tiempo completo de Microsoft tienen acceso a una suscripción gratuita de Visual Studio (MSDN) que incluye el acceso a Microsoft 365 E5 Developer. Puede acceder a este beneficio en [Visual Studio | Mis beneficios](https://my.visualstudio.com/benefits).
 
 ## <a name="as-a-vendor-working-at-microsoft-do-i-qualify-for-a-subscription"></a>Como proveedor que trabaja en Microsoft, ¿puedo optar a una suscripción?
 
