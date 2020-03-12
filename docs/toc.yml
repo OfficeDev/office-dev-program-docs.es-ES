@@ -1,12 +1,14 @@
-- name: Programa de desarrolladores de Office 365
-  href: office-365-developer-program.md
+- name: Programa de desarrolladores de Microsoft 365
+  href: microsoft-365-developer-program.md
 - name: Configurar una suscripción de desarrollador
-  href: office-365-developer-program-get-started.md
+  href: microsoft-365-developer-program-get-started.md
 - name: Soluciones de compilación
-  href: build-office-365-solutions.md
+  href: build-microsoft-365-solutions.md
 - name: Usar paquetes de datos de ejemplo
   href: install-sample-packs.md
 - name: Expiración y renovación de la suscripción
   href: subscription-expiration-and-renewal.md
 - name: Preguntas frecuentes sobre el programa de desarrolladores
-  href: office-365-developer-program-faq.md
+  href: microsoft-365-developer-program-faq.md
+- name: Términos y condiciones
+  href: terms-and-conditions.md
