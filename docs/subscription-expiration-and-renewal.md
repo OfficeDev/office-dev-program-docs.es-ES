@@ -1,26 +1,26 @@
 ---
-title: Renovación y caducidad de la suscripción del programa de desarrolladores de Office 365
+title: Renovación y caducidad de la suscripción al programa de desarrolladores de Microsoft 365
 description: Información sobre cómo renovar una suscripción de desarrollador que va a expirar.
 ms.date: 04/01/2019
 localization_priority: Priority
-ms.openlocfilehash: f0be068369de8456bea86094139292a723938e31
-ms.sourcegitcommit: 2bc24a4f9dabc39b293698342ce0bf85bd117cdf
+ms.openlocfilehash: 0aa7907a7a2dbf1e1dec4fe5bf7192d8c4b23a54
+ms.sourcegitcommit: 9c7a1aa1c562adb350fefc8068e154fa6f9a4ee3
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36747120"
+ms.lasthandoff: 03/11/2020
+ms.locfileid: "42600798"
 ---
-# <a name="office-365-developer-program-subscription-expiration-and-renewal"></a>Renovación y caducidad de la suscripción del programa de desarrolladores de Office 365
+# <a name="microsoft-365-developer-program-subscription-expiration-and-renewal"></a>Renovación y caducidad de la suscripción al programa de desarrolladores de Microsoft 365
 
-Su suscripción del programa de desarrolladores de Office 365 incluye una suscripción gratuita de desarrollador de Office 365. Su suscripción de desarrollador puede renovarse en función de la actividad de desarrollo; sin embargo, algunas suscripciones antiguas sí caducan. Este artículo describe la diferencia entre las suscripciones renovables y las no renovables y cómo actualizar la suscripción en caso de que expire.
+La suscripción al programa para desarrolladores de Microsoft 365 incluye una suscripción gratuita de desarrollador de Office 365 E3 o Microsoft 365 E5. Su suscripción de desarrollador puede renovarse en función de la actividad de desarrollo; sin embargo, algunas suscripciones antiguas sí caducan. Este artículo describe la diferencia entre las suscripciones renovables y las no renovables y cómo actualizar la suscripción en caso de que expire.
 
 ## <a name="expiring-vs-renewable-developer-subscriptions"></a>Suscripciones de desarrollador renovables y no renovables
 
-Con el lanzamiento del programa de desarrolladores de Office 365, se ofrecieron suscripciones de desarrolladores de 12 meses que caducan y no se pueden renovar. En agosto de 2018, comenzamos a proporcionar suscripciones renovables a algunos miembros del programa de desarrolladores.
+Con el lanzamiento del programa de desarrolladores de Microsoft 365, se ofrecieron suscripciones de desarrollador de 12 meses que caducan y no se pueden renovar. En agosto de 2018, comenzamos a proporcionar suscripciones renovables a algunos miembros del programa de desarrolladores.
 
 A partir de abril de 2019, ofrecemos suscripciones renovables de 90 días.
 
-Puede determinar si tiene una suscripción renovable o no renovable mirando el [Panel del programa de desarrolladores de Office 365](https://developer.microsoft.com/es-ES/office/profile).
+Puede determinar si tiene una suscripción renovable o no renovable en el [panel del programa de desarrolladores de Microsoft 365](https://aka.ms/DevProgramDashboard).
 
 ## <a name="non-renewable-subscriptions"></a>Suscripciones no renovables
 
@@ -58,9 +58,9 @@ Introdujimos las suscripciones renovables en agosto de 2018. Si se registró par
 
 Para migrar los datos de la suscripción actual a una nueva suscripción, consulte los siguientes recursos:
 
-- [Cómo migrar los buzones de correo de un espacio empresarial de Office 365 a otro](https://docs.microsoft.com/exchange/mailbox-migration/migrate-mailboxes-across-tenants)
-- [Usar PowerShell para realizar una migración preconfigurada a Office 365](https://docs.microsoft.com/office365/enterprise/powershell/use-powershell-to-perform-a-staged-migration-to-office-365)
-- [Migración de una suscripción de Office 365 a otra sin necesidad de terceros](https://social.technet.microsoft.com/Forums/en-US/ee507441-eb91-4b0a-ba6c-5bd9bb8c71b1/migration-from-one-o365-tenant-to-another-o365-without-third-party?forum=onlineservicesmigrationandcoexistence)
+- [Cómo migrar los buzones de correo de un inquilino a otro](https://docs.microsoft.com/exchange/mailbox-migration/migrate-mailboxes-across-tenants)
+- [Usar PowerShell para realizar una migración preconfigurada](https://docs.microsoft.com/office365/enterprise/powershell/use-powershell-to-perform-a-staged-migration-to-office-365)
+- [Migración de una suscripción a otra sin necesidad de terceros](https://social.technet.microsoft.com/Forums/en-US/ee507441-eb91-4b0a-ba6c-5bd9bb8c71b1/migration-from-one-o365-tenant-to-another-o365-without-third-party?forum=onlineservicesmigrationandcoexistence)
 
 ## <a name="how-do-i-know-if-my-subscription-was-deleted"></a>¿Cómo sé si mi suscripción se ha eliminado?
 
@@ -70,10 +70,10 @@ Cuando se elimine la suscripción, verá una notificación en el panel indicando
 
 ## <a name="see-also"></a>Vea también
 
-- [Unirse al programa de desarrolladores de Office 365](office-365-developer-program.md)
-- [Configurar una suscripción del programa de desarrolladores de Office 365](office-365-developer-program-get-started.md)
-- [Usar la suscripción para crear soluciones de Office 365](build-office-365-solutions.md)
-- [Preguntas frecuentes del programa de desarrolladores de Office 365](office-365-developer-program-faq.md)
+- [Unirse al programa de desarrolladores de Microsoft 365](microsoft-365-developer-program.md)
+- [Configurar una suscripción de desarrollador de Microsoft 365](microsoft-365-developer-program-get-started.md)
+- [Usar la suscripción para crear soluciones de Microsoft 365](build-microsoft-365-solutions.md)
+- [Preguntas frecuentes sobre el programa de desarrolladores de Microsoft 365](microsoft-365-developer-program-faq.md)
 
 
 

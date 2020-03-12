@@ -1,19 +1,19 @@
 ---
-title: Usar paquetes de datos de ejemplo con su suscripción de desarrollador de Office 365
-description: Aprenda cómo instalar paquetes de datos de ejemplo con su suscripción de desarrollador de Office 365 para que su entorno aislado comience a trabajar rápidamente.
+title: Usar paquetes de datos de ejemplo con la suscripción al programa de desarrolladores de Microsoft 365
+description: Aprenda cómo instalar paquetes de datos de ejemplo con la suscripción de desarrollador para que su entorno aislado comience a funcionar rápidamente.
 localization_priority: Priority
-ms.openlocfilehash: 29bdd3cebeaf4a2f70d1482fe1c57480cd083756
-ms.sourcegitcommit: e8d857460e4fd5842bdfbd2a9d60f4fba55edcd0
+ms.openlocfilehash: 2cc7027ccad5b7971c1ae9d49416b9b25663c255
+ms.sourcegitcommit: 9c7a1aa1c562adb350fefc8068e154fa6f9a4ee3
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/20/2019
-ms.locfileid: "36465129"
+ms.lasthandoff: 03/11/2020
+ms.locfileid: "42600805"
 ---
-# <a name="use-sample-data-packs-with-your-office-365-developer-subscription"></a>Usar paquetes de datos de ejemplo con su suscripción de desarrollador de Office 365
+# <a name="use-sample-data-packs-with-your-microsoft-365-developer-program-subscription"></a>Usar paquetes de datos de ejemplo con la suscripción al programa de desarrolladores de Microsoft 365
 
-Puede instalar paquetes de datos de ejemplo con su suscripción de desarrollador de Office 365 Los paquetes de datos de ejemplo le ahorran tiempo al instalar automáticamente los datos y contenidos necesarios para crear y probar sus soluciones. Esto incluye usuarios, metadatos y fotografías ficticios para simular un pequeño entorno corporativo. Puede instalar rápidamente los datos de ejemplo para poder concentrarse en sus soluciones en lugar de dedicar tiempo a crear los datos de ejemplo por su cuenta.
+Puede instalar paquetes de datos de ejemplo en la suscripción al programa de desarrolladores de Microsoft 365. Los paquetes de datos de ejemplo le ahorran tiempo al instalar automáticamente los datos y contenidos necesarios para crear y probar sus soluciones. Esto incluye usuarios, metadatos y fotografías ficticios para simular un pequeño entorno corporativo. Puede instalar rápidamente los datos de ejemplo para poder concentrarse en sus soluciones en lugar de dedicar tiempo a crear los datos de ejemplo por su cuenta.
 
-Puede encontrar paquetes de datos de ejemplo en el [Panel del programa para desarrolladores de Office 365](https://developer.microsoft.com/office/profile), en la parte inferior del icono de la suscripción a Office 365.
+Puede encontrar paquetes de datos de ejemplo en el [panel del programa de desarrolladores de Microsoft 365](https://developer.microsoft.com/office/profile), en la parte inferior del icono de la suscripción.
 
 ![Captura de pantalla del icono de suscripción en la página del panel](images/sample-data-pack-ux-tile-users-beginning.PNG)
 
@@ -35,7 +35,7 @@ Los siguientes paquetes de datos de ejemplo están disponibles actualmente:
 > [!NOTE]
 > Debe instalar el paquete de datos de ejemplo de Usuarios antes de instalar Correo y Eventos.
 
-## <a name="what-do-the-sample-data-packs-add-to-my-office-365-subscription"></a>¿Qué le agregan los paquetes de datos de ejemplo a mi suscripción de Office 365?
+## <a name="what-do-the-sample-data-packs-add-to-my-subscription"></a>¿Qué le agregan a la suscripción los paquetes de datos de ejemplo?
 
 El paquete de datos de ejemplo de Usuarios crea 16 usuarios ficticios en su suscripción e incluye las licencias para cada usuario, los buzones de correo, los nombres, los metadatos y las fotos para cada uno.
 
@@ -43,7 +43,7 @@ El paquete de datos de ejemplo de Correo y Eventos agrega conversaciones de corr
 
 ## <a name="how-do-i-install-the-users-sample-data-pack"></a>¿Cómo instalo el paquete de datos de ejemplo de Usuarios?
 
-Antes de instalar el paquete de datos de ejemplo de Usuarios, asegúrese de tener una suscripción de desarrollador de Office 365 y de asignarse a sí mismo una licencia de administrador.
+Antes de instalar el paquete de datos de ejemplo de usuarios, asegúrese de tener una suscripción de desarrollador de Microsoft 365 y de asignarse a sí mismo una licencia de administrador.
 
 > [!NOTE]
 > Asegúrese de que tiene 16 usuarios disponibles en la suscripción. La suscripción incluye 25 usuarios. Si ya ha configurado más de 10 usuarios, primero quite algunos de ellos para asegurarse de que la instalación se ha realizado correctamente.
@@ -53,7 +53,7 @@ Para instalar el paquete de datos de ejemplo de Usuarios:
 1. Seleccione el cuadro **Usuarios** en la parte inferior del icono de suscripción.
 2. Copie su Id. de administrador; lo necesitará para iniciar sesión en su suscripción.
 3. Escriba su Id. de administrador y su contraseña en la página de inicio de sesión.
-4. Conceda el consentimiento para los permisos de administrador de la suscripción de desarrollador de Office 365.
+4. Conceda el consentimiento para los permisos de administrador de la suscripción de desarrollador de Microsoft 365.
 
 ![Captura de pantalla que muestra el cuadro de diálogo para el consentimiento de permisos](images/sample-data-pack-ux-tile-users-consent-with-permissions-combined.PNG)
 
@@ -87,13 +87,13 @@ Una vez que haya instalado el paquete de datos de ejemplo de Usuarios, puede pro
 
 Sí. Agregaremos paquetes de datos de ejemplo para SharePoint y OneDrive. En el futuro, consideraremos agregar paquetes de datos de ejemplo para más productos y tecnologías, tales como los complementos de Office, Microsoft Teams, entre otros.
 
-## <a name="can-i-install-sample-data-packs-on-my-other-office-365-subscriptions"></a>¿Puedo instalar paquetes de datos de ejemplo en mis otras suscripciones de Office 365?
+## <a name="can-i-install-sample-data-packs-on-my-other-microsoft-365-subscriptions"></a>¿Puedo instalar paquetes de datos de ejemplo en mis otras suscripciones de Microsoft 365?
 
-No. Estos paquetes de datos de ejemplo solo son compatibles con la suscripción de desarrollador de Office 365 que recibe como parte del programa de desarrolladores de Office 365.
+No. Estos paquetes de datos de ejemplo solo son compatibles con la suscripción de desarrollador de Microsoft 365 que recibe como parte del programa de desarrolladores de Microsoft 365.
 
 ## <a name="how-can-i-see-the-sample-data-in-my-subscription"></a>¿Cómo puedo ver los datos de ejemplo en mi suscripción?
 
-Después de instalar el paquete de datos de ejemplo de los usuarios, para ver los usuarios que se han añadido, vaya al **Centro de administración de Microsoft 365** en su suscripción de desarrollador de Office 365. En **Usuarios**, seleccione **Usuarios activos**. Verá una lista de 16 usuarios. Puede seleccionar un usuario para ver los metadatos asociados, incluidas las fotos y las licencias.
+Después de instalar el paquete de datos de ejemplo de usuarios, para ver los usuarios que se han añadido, vaya al **Centro de administración de Microsoft 365** en la suscripción de desarrollador de Microsoft 365. En **Usuarios**, seleccione **Usuarios activos**. Verá una lista de 16 usuarios. Puede seleccionar un usuario para ver los metadatos asociados, incluidas las fotos y las licencias.
 
 ![Captura de pantalla de 16 usuarios en el Centro de administración de Microsoft 365, con metadatos de un usuario seleccionado](images/content-packs-07.PNG)
 
@@ -102,4 +102,4 @@ Después de instalar el paquete de ejemplos de correo y eventos, para ver los da
 
 ## <a name="see-also"></a>Vea también
 
-- [Configurar una suscripción del programa de desarrolladores de Office 365](office-365-developer-program-get-started.md)
+- [Configurar una suscripción de desarrollador de Microsoft 365](microsoft-365-developer-program-get-started.md)
