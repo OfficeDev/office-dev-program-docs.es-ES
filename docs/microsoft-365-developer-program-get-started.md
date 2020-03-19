@@ -1,6 +1,6 @@
 ---
 title: Configurar una suscripción de Microsoft 365 Developer
-description: Configure una suscripción de desarrollador de Microsoft 365 para crear soluciones independientes de su entorno de producción.
+description: Configure una suscripción de Microsoft 365 Developer para crear soluciones independientes de su entorno de producción.
 ms.date: 04/01/2019
 localization_priority: Priority
 ms.openlocfilehash: 4aa500e0688c43186d574e94e3f94081a87b89e4
@@ -17,11 +17,11 @@ Configure una suscripción de Microsoft 365 Developer para crear soluciones inde
 Los clientes que se han unido al programa antes del 25 de agosto de 2019 tienen una suscripción de Office 365 E3 Developer.
 
 > [!NOTE] 
-> Para configurar una suscripción, primero debe [unirse al programa de desarrolladores de Microsoft 365](microsoft-365-developer-program.md). Después de unirse, verá la opción para configurar una suscripción.
+> Para configurar una suscripción, primero debe [unirse al programa de Microsoft 365 Developer](microsoft-365-developer-program.md). Después de unirse, verá la opción para configurar una suscripción.
 
 ## <a name="set-up-your-subscription"></a>Configurar la suscripción
 
-1. Para obtener una suscripción de desarrollador de Microsoft 365, en su página de perfil elija **Configurar suscripción**.
+1. Para obtener una suscripción de Microsoft 365 Developer, en su página de perfil elija **Configurar suscripción**.
 
 2. En el cuadro de diálogo **Configurar la suscripción de desarrollador**, cree un nombre de usuario y un dominio. Esta cuenta tendrá permisos de administrador global para la suscripción. Puede elegir cualquier nombre de dominio o nombre de usuario mientras no estén en uso. No use espacios.
 
@@ -84,11 +84,11 @@ Para algunas soluciones de Office, es posible que necesite una cuenta de Microso
 
 ## <a name="install-sample-data-packs"></a>Instalar paquetes de datos de ejemplo
 
-Puede instalar paquetes de datos de ejemplo en la suscripción al programa de desarrolladores de Microsoft 365. Los paquetes de datos de ejemplo le ahorran tiempo al instalar automáticamente los datos y contenidos necesarios para crear y probar sus soluciones. Esto incluye usuarios, metadatos y fotografías ficticios para simular un pequeño entorno corporativo. Para obtener más información sobre los paquetes de datos de ejemplo disponibles y cómo instalarlos, vea [Instalar paquetes de datos de ejemplo](install-sample-packs.md).
+Puede instalar paquetes de datos de ejemplo en la suscripción al programa de Microsoft 365 Developer. Los paquetes de datos de ejemplo le ahorran tiempo al instalar automáticamente los datos y contenidos necesarios para crear y probar sus soluciones. Esto incluye usuarios, metadatos y fotografías ficticios para simular un pequeño entorno corporativo. Para obtener más información sobre los paquetes de datos de ejemplo disponibles y cómo instalarlos, vea [Instalar paquetes de datos de ejemplo](install-sample-packs.md).
 
 ## <a name="see-also"></a>Vea también
 
-- [Unirse al programa de desarrolladores de Microsoft 365](microsoft-365-developer-program.md)
+- [Unirse al programa de Microsoft 365 Developer](microsoft-365-developer-program.md)
 - [Usar la suscripción para crear soluciones de Microsoft 365](build-microsoft-365-solutions.md)
 - [Renovar una suscripción que va a expirar](subscription-expiration-and-renewal.md)
 - [Preguntas frecuentes sobre el programa de desarrolladores de Microsoft 365](microsoft-365-developer-program-faq.md)
