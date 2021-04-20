@@ -1,17 +1,19 @@
 ---
-title: Unirse al programa de desarrolladores de Microsoft 365
+title: Le damos la bienvenida al programa de desarrolladores de Microsoft 365
 description: Únase al programa de desarrolladores de Microsoft 365 para desarrollar soluciones de Microsoft 365 independientes de su entorno de producción.
 localization_priority: Priority
-ms.openlocfilehash: f058f69ea726f948e1aa30232fe611d7f459a2f4
-ms.sourcegitcommit: 9c7a1aa1c562adb350fefc8068e154fa6f9a4ee3
+ms.openlocfilehash: 31414ea3b88e711f81ba8a5d879e6e666ecbaa3b
+ms.sourcegitcommit: 3d50606496bd0bdbbcf892d2d18de6343a44c576
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42601316"
+ms.lasthandoff: 04/19/2021
+ms.locfileid: "51890161"
 ---
 # <a name="welcome-to-the-microsoft-365-developer-program"></a>Le damos la bienvenida al programa de desarrolladores de Microsoft 365
 
-Únase a amigos y compañeros en el programa de desarrolladores de Microsoft 365. Use la suscripción de desarrollador de Microsoft 365 para desarrollar las soluciones independientes de su entorno de producción. Puede crear soluciones para Microsoft Teams, Complementos de Office, Microsoft Graph, SharePoint Framework, Complementos de SharePoint y mucho más.
+El programa de desarrolladores de Microsoft 365 incluye una suscripción para desarrolladores de Microsoft 365 E5 que puede usar para crear su propio espacio aislado y desarrollar soluciones independientes de su entorno de producción. Puede crear aplicaciones de Microsoft Teams, complementos de Office para Word, Excel, PowerPoint, o Outlook, o complementos de SharePoint, utilizando Microsoft Graph, SharePoint Framework y Power Apps, entre otros.
+
+¿Tiene una suscripción a Visual Studio Pro o Enteprise? Si es así, puede aprovechar las ventajas adicionales al unirse al programa; para más información, consulte [Unirse a Visual Studio](join-with-visual-studio.md).
 
 ## <a name="join-the-microsoft-365-developer-program"></a>Unirse al programa de desarrolladores de Microsoft 365
 
@@ -42,7 +44,7 @@ ms.locfileid: "42601316"
     - El tipo de aplicaciones o soluciones que está interesado en desarrollar.
     - Los productos, tecnologías y lenguajes de programación que le interesan.
 
-9. Cuando haya terminado, haga clic en **Unirse**. Las preferencias aparecerán en la parte superior derecha de la página siguiente y recibirá un mensaje de bienvenida.
+9. Cuando haya terminado, haga clic en **Unirse**. Las preferencias aparecerán en la parte superior derecha de la página siguiente y verá un mensaje de bienvenida además de recibir un correo electrónico de bienvenida.
 
 
 

@@ -1,25 +1,23 @@
 ---
-title: Configurar una suscripción de Microsoft 365 Developer
-description: Configure una suscripción de Microsoft 365 Developer para crear soluciones independientes de su entorno de producción.
+title: Configurar una suscripción de espacio aislado para desarrolladores de Microsoft 365
+description: Configure una suscripción de desarrollador de Microsoft 365 para crear soluciones independientes de su entorno de producción.
 ms.date: 04/01/2019
 localization_priority: Priority
-ms.openlocfilehash: 4aa500e0688c43186d574e94e3f94081a87b89e4
-ms.sourcegitcommit: 9c7a1aa1c562adb350fefc8068e154fa6f9a4ee3
+ms.openlocfilehash: 49bfba3133351dfc67b6686250fb9152fc8d9688
+ms.sourcegitcommit: 3d50606496bd0bdbbcf892d2d18de6343a44c576
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42601317"
+ms.lasthandoff: 04/19/2021
+ms.locfileid: "51890185"
 ---
-# <a name="set-up-a-microsoft-365-developer-subscription"></a>Configurar una suscripción de Microsoft 365 Developer 
+# <a name="set-up-a-microsoft-365-developer-sandbox-subscription"></a>Configurar una suscripción de espacio aislado para desarrolladores de Microsoft 365 
 
 Configure una suscripción de Microsoft 365 Developer para crear soluciones independientes de su entorno de producción. Es una suscripción de Microsoft 365 E5 Developer con 25 licencias de usuario. Tiene una duración de 90 días y es gratuita solo para fines de desarrollo (codificación de soluciones). 
 
-Los clientes que se han unido al programa antes del 25 de agosto de 2019 tienen una suscripción de Office 365 E3 Developer.
-
 > [!NOTE] 
-> Para configurar una suscripción, primero debe [unirse al programa de Microsoft 365 Developer](microsoft-365-developer-program.md). Después de unirse, verá la opción para configurar una suscripción.
+> Para configurar una suscripción, primero debe [unirse al programa de desarrolladores de Microsoft 365](microsoft-365-developer-program.md) directamente o a través de Visual Studio Profressional o Enterprise (si es suscriptor). Después de unirse, verá la opción para configurar una suscripción.
 
-## <a name="set-up-your-subscription"></a>Configurar la suscripción
+## <a name="set-up-your-microsoft-365-e5-sandbox-subscription"></a>Configurar su suscripción de espacio aislado de Microsoft 365 E5
 
 1. Para obtener una suscripción de Microsoft 365 Developer, en su página de perfil elija **Configurar suscripción**.
 
@@ -88,7 +86,7 @@ Puede instalar paquetes de datos de ejemplo en la suscripción al programa de Mi
 
 ## <a name="see-also"></a>Vea también
 
-- [Unirse al programa de Microsoft 365 Developer](microsoft-365-developer-program.md)
+- [Unirse al programa de desarrolladores de Microsoft 365](microsoft-365-developer-program.md)
 - [Usar la suscripción para crear soluciones de Microsoft 365](build-microsoft-365-solutions.md)
 - [Renovar una suscripción que va a expirar](subscription-expiration-and-renewal.md)
 - [Preguntas frecuentes sobre el programa de desarrolladores de Microsoft 365](microsoft-365-developer-program-faq.md)
