@@ -3,12 +3,12 @@ title: Renovación y caducidad de la suscripción al programa de desarrolladores
 description: Información sobre cómo renovar una suscripción de desarrollador que va a expirar.
 ms.date: 04/01/2019
 localization_priority: Priority
-ms.openlocfilehash: 0aa7907a7a2dbf1e1dec4fe5bf7192d8c4b23a54
-ms.sourcegitcommit: 9c7a1aa1c562adb350fefc8068e154fa6f9a4ee3
+ms.openlocfilehash: 1235a28e45babf60b7d40cf08bfcd7992184ff40
+ms.sourcegitcommit: 3d50606496bd0bdbbcf892d2d18de6343a44c576
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42600798"
+ms.lasthandoff: 04/19/2021
+ms.locfileid: "51890199"
 ---
 # <a name="microsoft-365-developer-program-subscription-expiration-and-renewal"></a>Renovación y caducidad de la suscripción al programa de desarrolladores de Microsoft 365
 
@@ -58,8 +58,8 @@ Introdujimos las suscripciones renovables en agosto de 2018. Si se registró par
 
 Para migrar los datos de la suscripción actual a una nueva suscripción, consulte los siguientes recursos:
 
-- [Cómo migrar los buzones de correo de un inquilino a otro](https://docs.microsoft.com/exchange/mailbox-migration/migrate-mailboxes-across-tenants)
-- [Usar PowerShell para realizar una migración preconfigurada](https://docs.microsoft.com/office365/enterprise/powershell/use-powershell-to-perform-a-staged-migration-to-office-365)
+- [Cómo migrar los buzones de correo de un inquilino a otro](/exchange/mailbox-migration/migrate-mailboxes-across-tenants)
+- [Usar PowerShell para realizar una migración preconfigurada](/office365/enterprise/powershell/use-powershell-to-perform-a-staged-migration-to-office-365)
 - [Migración de una suscripción a otra sin necesidad de terceros](https://social.technet.microsoft.com/Forums/en-US/ee507441-eb91-4b0a-ba6c-5bd9bb8c71b1/migration-from-one-o365-tenant-to-another-o365-without-third-party?forum=onlineservicesmigrationandcoexistence)
 
 ## <a name="how-do-i-know-if-my-subscription-was-deleted"></a>¿Cómo sé si mi suscripción se ha eliminado?

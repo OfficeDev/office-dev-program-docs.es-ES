@@ -2,6 +2,8 @@
 
 Este proyecto ha adoptado el [Código de conducta de código abierto de Microsoft](https://opensource.microsoft.com/codeofconduct/).
 
-Para obtener más información, consulte las [preguntas más frecuentes sobre el código de conducta](https://opensource.microsoft.com/codeofconduct/faq/). 
+Para obtener más información, vea las preguntas más [frecuentes sobre código de conducta](https://opensource.microsoft.com/codeofconduct/faq/). 
 
-Para obtener más preguntas o comentarios, póngase en contacto con [opencode@microsoft.com](mailto:opencode@microsoft.com). 
+Para cualquier pregunta o comentario adicional, póngase en [contacto opencode@microsoft.com](mailto:opencode@microsoft.com). 
+
+Obtenga un espacio aislado gratuito, herramientas y otros recursos que necesita para crear soluciones para la plataforma de desarrollo [de Microsoft 365.](https://developer.microsoft.com/en-us/microsoft-365/dev-program) 
