@@ -3,12 +3,12 @@ title: Programa de desarrolladores de Microsoft 365
 description: Preguntas más frecuentes sobre el programa de desarrolladores de Microsoft 365.
 ms.date: 04/01/2019
 localization_priority: Priority
-ms.openlocfilehash: 61e75fbf308e2cf92ea1ed3c135874a3357cf147
-ms.sourcegitcommit: 3d50606496bd0bdbbcf892d2d18de6343a44c576
+ms.openlocfilehash: cbc15fbfaf5873a21eda6d100b590121fe2328cb
+ms.sourcegitcommit: c70eb4a7cab5b403e602d7ddf8abf3cff5054346
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/19/2021
-ms.locfileid: "51890192"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "52331327"
 ---
 # <a name="microsoft-365-developer-program-faq"></a>Programa de desarrolladores de Microsoft 365
 
@@ -148,7 +148,7 @@ Si prefiere una suscripción que esté disponible durante un período más largo
 
 ## <a name="how-do-you-determine-whether-a-subscription-can-be-renewed"></a>¿Cómo determinar si se puede renovar una suscripción?
 
-Usamos un conjunto de algoritmos y telemetría que recibimos de su actividad en el programa de desarrolladores de Microsoft 365 y de su suscripción de desarrollador de Microsoft 365 E5 y Office 365 E3 para determinar si está desarrollando de manera activa. Comprobamos estos datos periódicamente para actualizar el estado y determinar si debe ampliarse la suscripción. 
+Usamos un conjunto de algoritmos y telemetría que obtenemos de su actividad en el Programa para desarrolladores de Microsoft 365 y en su suscripción de desarrollador de Office 365 E3 o Microsoft 365 E5 para determinar si está desarrollando activamente. Los revisamos con regularidad para actualizar su estado y determinar si su suscripción debe extenderse. 
 
 Si cree que nuestro seguimiento no refleja en algún modo su actividad de desarrollo con precisión, háganoslo saber a través del panel. Para enviar un formulario que nos indique cómo usa su suscripción para tareas de desarrollo, en la advertencia del panel, elija el vínculo **Háganoslo saber**, como se muestra en la siguiente imagen. Revisaremos su solicitud y le informamos si reúne las condiciones para una extensión. 
 
@@ -168,9 +168,11 @@ Para obtener más información, vea [Expiración y renovación de la suscripció
 
 ## <a name="if-my-subscription-is-going-to-expire-how-much-time-do-i-have-before-it-is-deleted"></a>Si la suscripción va a expirar, ¿cuánto tiempo tengo antes de que se elimine?
 
-Una vez que expire la suscripción, tiene 30 días para migrar los datos. Durante esos 30 días, solo el administrador tendrá acceso a la suscripción y, tras 60 días, se eliminarán todos los datos y la suscripción.
+Tiene 30 días después de que expire la suscripción para migrar los datos. Durante los próximos 30 días, solo el administrador tendrá acceso a la suscripción y el día 60, la suscripción y todos los datos se eliminarán.
 
-<a name="account-types"> </a>
+## <a name="why-should-i-link-my-github-account"></a>¿Por qué debo vincular mi cuenta de GitHub?
+
+Al unirse al programa Desarrollador de Microsoft 365, en la página [Configuración](https://developer.microsoft.com/microsoft-365/profile/settings/preferences), puede vincular su cuenta de GitHub a su cuenta de programa de desarrollador. La vinculación de su cuenta de GitHub se acumulará para la renovación de su suscripción de espacio aislado para desarrolladores de Microsoft 365. También puede desvincular su cuenta si va a la sección [Cuentas vinculadas](https://developer.microsoft.com/microsoft-365/profile/settings/accounts-linked) de su página **Configuración** grupo.
 
 ## <a name="how-can-i-migrate-from-an-office-365-e3-subscription-to-a-microsoft-365-e5-subscription"></a>¿Cómo puedo migrar de una suscripción de Office 365 E3 a una suscripción de Microsoft 365 E5?
 
