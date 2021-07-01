@@ -3,12 +3,12 @@ title: Configurar una suscripción de espacio aislado para desarrolladores de Mi
 description: Configure una suscripción de desarrollador de Microsoft 365 para crear soluciones independientes de su entorno de producción.
 ms.date: 04/01/2019
 localization_priority: Priority
-ms.openlocfilehash: 49bfba3133351dfc67b6686250fb9152fc8d9688
-ms.sourcegitcommit: 3d50606496bd0bdbbcf892d2d18de6343a44c576
+ms.openlocfilehash: c35814955abb2158a076d6ca566c3bf76fc5289f
+ms.sourcegitcommit: 97bf9ba32eaa1df134d563b99b5fa873600b7921
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/19/2021
-ms.locfileid: "51890185"
+ms.lasthandoff: 06/30/2021
+ms.locfileid: "53206919"
 ---
 # <a name="set-up-a-microsoft-365-developer-sandbox-subscription"></a>Configurar una suscripción de espacio aislado para desarrolladores de Microsoft 365 
 
@@ -72,7 +72,7 @@ Configure una suscripción de Microsoft 365 Developer para crear soluciones inde
 
 Los servicios de back-end, como SharePoint y Exchange, tardarán cierto tiempo en realizar el aprovisionamiento para la suscripción. Durante este paso, algunos de los iconos del iniciador de aplicaciones y de la página principal se mostrarán como **Configurando (esta aplicación aún se está configurando)**. Esto no llevará más de una hora.
 
-Al finalizar el aprovisionamiento, puede usar la nueva suscripción de Microsoft 365 para realizar tareas de desarrollo. La suscripción caduca después de 90 días. Para renovarla, consulte [¿puedo ampliar la suscripción cuando esté a punto de caducar?](microsoft-365-developer-program-faq.md#renew-subscription)
+Al finalizar el aprovisionamiento, puede usar la nueva suscripción de Microsoft 365 para realizar tareas de desarrollo. La suscripción caduca después de 90 días. Para renovarla, consulte [¿puedo ampliar la suscripción cuando esté a punto de caducar?](microsoft-365-developer-program-faq.yml#renew-subscription)
 
 También le recomendamos que habilite las opciones de publicación para asegurarse de tener acceso a las características más recientes de Microsoft 365 lo antes posible. Para obtener más información, vea [Configurar las opciones de la versión estándar o dirigida](https://support.office.com/article/set-up-the-standard-or-targeted-release-options-in-office-365-3b3adfa4-1777-4ff0-b606-fb8732101f47).
 
@@ -82,11 +82,11 @@ Para algunas soluciones de Office, es posible que necesite una cuenta de Microso
 
 ## <a name="install-sample-data-packs"></a>Instalar paquetes de datos de ejemplo
 
-Puede instalar paquetes de datos de ejemplo en la suscripción al programa de Microsoft 365 Developer. Los paquetes de datos de ejemplo le ahorran tiempo al instalar automáticamente los datos y contenidos necesarios para crear y probar sus soluciones. Esto incluye usuarios, metadatos y fotografías ficticios para simular un pequeño entorno corporativo. Para obtener más información sobre los paquetes de datos de ejemplo disponibles y cómo instalarlos, vea [Instalar paquetes de datos de ejemplo](install-sample-packs.md).
+Puede instalar paquetes de datos de ejemplo en la suscripción al programa de desarrolladores de Microsoft 365. Los paquetes de datos de ejemplo le ahorran tiempo al instalar automáticamente los datos y contenidos necesarios para crear y probar sus soluciones. Esto incluye usuarios, metadatos y fotografías ficticios para simular un pequeño entorno corporativo. Para obtener más información sobre los paquetes de datos de ejemplo disponibles y cómo instalarlos, vea [Instalar paquetes de datos de ejemplo](install-sample-packs.md).
 
 ## <a name="see-also"></a>Vea también
 
 - [Unirse al programa de desarrolladores de Microsoft 365](microsoft-365-developer-program.md)
 - [Usar la suscripción para crear soluciones de Microsoft 365](build-microsoft-365-solutions.md)
 - [Renovar una suscripción que va a expirar](subscription-expiration-and-renewal.md)
-- [Preguntas frecuentes sobre el programa de desarrolladores de Microsoft 365](microsoft-365-developer-program-faq.md)
+- [Preguntas frecuentes sobre el programa de desarrolladores de Microsoft 365](microsoft-365-developer-program-faq.yml)
