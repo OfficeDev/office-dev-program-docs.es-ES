@@ -2,12 +2,12 @@
 title: Use la suscripción de desarrollador para crear soluciones de Microsoft 365
 description: Use la suscripción de desarrollador de Microsoft 365 para crear las soluciones que quiera.
 localization_priority: Priority
-ms.openlocfilehash: 2b2e68eb2e9ce474cf6e936c72aedd441e873ff3
-ms.sourcegitcommit: 3d50606496bd0bdbbcf892d2d18de6343a44c576
+ms.openlocfilehash: 454bf488dc0cb63ca0d58ba2ddbb5249204f0ea7
+ms.sourcegitcommit: 97bf9ba32eaa1df134d563b99b5fa873600b7921
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/19/2021
-ms.locfileid: "51890140"
+ms.lasthandoff: 06/30/2021
+ms.locfileid: "53206898"
 ---
 # <a name="use-your-developer-subscription-to-build-microsoft-365-solutions"></a>Use la suscripción de desarrollador para crear soluciones de Microsoft 365
 
@@ -55,10 +55,9 @@ Para configurar el entorno de desarrollo y crear su primer complemento, consulte
 
 ## <a name="sharepoint-framework"></a>SharePoint Framework
 
-SharePoint Framework (SPFx) es un modelo de elementos web y páginas que proporciona compatibilidad completa con el desarrollo de SharePoint del lado cliente, integración fácil con los datos de SharePoint y compatibilidad con herramientas de código abierto. Con SharePoint Framework, puede usar tecnologías y herramientas web modernas en su entorno de desarrollo preferido para crear experiencias productivas y aplicaciones dinámicas y preparadas para móviles.
+SharePoint Framework (SPFx) es un modelo de elementos web y páginas que proporciona compatibilidad completa con el desarrollo de SharePoint del lado cliente, integración fácil con los datos de SharePoint y compatibilidad con herramientas de código abierto. Con SharePoint Framework, puede usar tecnologías y herramientas web modernas en su entorno de desarrollo preferido para crear experiencias productivas y aplicaciones dinámicas y preparadas para dispositivos móviles.
 
-Para configurar automáticamente el espacio aislado para probar diferentes escenarios y plantillas de SharePoint, instale el paquete de datos de muestra de SharePoint.
-Para más detalles, vea:
+Para configurar automáticamente el espacio aislado a fin de probar diferentes escenarios y plantillas de SharePoint, instale el paquete de datos de muestra de SharePoint. Para obtener más detalles, consulte:
 
 - [Instalar paquetes de datos de muestra](install-sample-packs.md)
 - [Configurar su suscripción de desarrollador para SPFx](/sharepoint/dev/spfx/set-up-your-developer-tenant)
@@ -87,7 +86,7 @@ Power Apps también ofrece una plataforma extensible que permite a los desarroll
 
 Para más información:
 
-- [Power Apps](https://docs.microsoft.com/es-ES/powerapps/)
+- [Power Apps](/powerapps/)
 - Vea [Demostraciones de Power Apps](https://powerapps.microsoft.com/demo/)
 - Vea vídeos en el [canal de Power Apps](https://www.youtube.com/channel/UCGfWR2ekfRFckLjev6eQYLg) en YouTube
 
@@ -97,4 +96,4 @@ Para más información:
 - [Unirse al programa de desarrolladores de Microsoft 365](microsoft-365-developer-program.md)
 - [Configurar una suscripción de desarrollador de Microsoft 365](microsoft-365-developer-program-get-started.md) 
 - [Renovar una suscripción que va a expirar](subscription-expiration-and-renewal.md)
-- [Preguntas frecuentes sobre el programa de desarrolladores de Microsoft 365](microsoft-365-developer-program-faq.md)
+- [Preguntas frecuentes sobre el programa de desarrolladores de Microsoft 365](microsoft-365-developer-program-faq.yml)
