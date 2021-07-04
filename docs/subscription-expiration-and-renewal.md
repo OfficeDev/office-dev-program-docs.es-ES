@@ -3,12 +3,12 @@ title: Renovación y caducidad de la suscripción al programa de desarrolladores
 description: Información sobre cómo renovar una suscripción de desarrollador que va a expirar.
 ms.date: 04/01/2019
 localization_priority: Priority
-ms.openlocfilehash: 1235a28e45babf60b7d40cf08bfcd7992184ff40
-ms.sourcegitcommit: 3d50606496bd0bdbbcf892d2d18de6343a44c576
+ms.openlocfilehash: ae0d5f496537baf198504b28c6d9cf8ed6966aaf
+ms.sourcegitcommit: 97bf9ba32eaa1df134d563b99b5fa873600b7921
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/19/2021
-ms.locfileid: "51890199"
+ms.lasthandoff: 06/30/2021
+ms.locfileid: "53206912"
 ---
 # <a name="microsoft-365-developer-program-subscription-expiration-and-renewal"></a>Renovación y caducidad de la suscripción al programa de desarrolladores de Microsoft 365
 
@@ -50,7 +50,7 @@ Si es un desarrollador activo, la suscripción se renovará automáticamente por
 
 ## <a name="why-isnt-my-current-subscription-renewable"></a>¿Por qué no es renovable la suscripción actual?
 
-Introdujimos las suscripciones renovables en agosto de 2018. Si se registró para la suscripción antes de ese momento, la suscripción no es renovable y deberá configurar una nueva cuando expire.
+Presentamos las suscripciones renovables en agosto de 2018. Si se suscribió antes de ese momento, la suscripción no es renovable y deberá configurar una nueva cuando expire.
 
 <a name="migrate-data"> </a>
 
@@ -73,7 +73,7 @@ Cuando se elimine la suscripción, verá una notificación en el panel indicando
 - [Unirse al programa de desarrolladores de Microsoft 365](microsoft-365-developer-program.md)
 - [Configurar una suscripción de desarrollador de Microsoft 365](microsoft-365-developer-program-get-started.md)
 - [Usar la suscripción para crear soluciones de Microsoft 365](build-microsoft-365-solutions.md)
-- [Preguntas frecuentes sobre el programa de desarrolladores de Microsoft 365](microsoft-365-developer-program-faq.md)
+- [Preguntas frecuentes sobre el programa de desarrolladores de Microsoft 365](microsoft-365-developer-program-faq.yml)
 
 
 
