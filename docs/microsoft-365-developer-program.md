@@ -4,7 +4,7 @@ description: Únase al programa de desarrolladores de Microsoft 365 para desarro
 localization_priority: Priority
 ms.openlocfilehash: 1beb4ce8946ac64d574328c8fc1c771a0700cd4d
 ms.sourcegitcommit: 97bf9ba32eaa1df134d563b99b5fa873600b7921
-ms.translationtype: HT
+ms.translationtype: MT
 ms.contentlocale: es-ES
 ms.lasthandoff: 06/30/2021
 ms.locfileid: "53206905"
@@ -17,7 +17,7 @@ El programa de desarrolladores de Microsoft 365 incluye una suscripción para de
 
 ## <a name="join-the-microsoft-365-developer-program"></a>Unirse al programa de desarrolladores de Microsoft 365
 
-1. Vaya a la página [Unirse al programa de desarrolladores de Microsoft 365](https://developer.microsoft.com/es-ES/microsoft-365/dev-program) 
+1. Vaya a la página [Unirse al programa de desarrolladores de Microsoft 365](https://developer.microsoft.com/en-us/microsoft-365/dev-program) 
 
 2. En la esquina superior derecha, elija **Iniciar sesión** para iniciar sesión con su cuenta de Microsoft o el correo electrónico habilitado para Azure Active Directory.
 

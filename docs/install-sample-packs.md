@@ -4,7 +4,7 @@ description: Aprenda cómo instalar paquetes de datos de ejemplo con la suscripc
 localization_priority: Priority
 ms.openlocfilehash: 3802c1c1e02c7be9ccb322561189ee0d085e8ce0
 ms.sourcegitcommit: 3d50606496bd0bdbbcf892d2d18de6343a44c576
-ms.translationtype: HT
+ms.translationtype: MT
 ms.contentlocale: es-ES
 ms.lasthandoff: 04/19/2021
 ms.locfileid: "51890152"
