@@ -4,16 +4,16 @@ metadata:
   description: Preguntas más frecuentes sobre el programa de desarrolladores de Microsoft 365.
   ms.date: 04/01/2019
   localization_priority: Priority
-  ms.openlocfilehash: 231fc0fa6d6a8ab2fb12e154542a637d829ef6bf
-  ms.sourcegitcommit: 97bf9ba32eaa1df134d563b99b5fa873600b7921
+  ms.openlocfilehash: 64c0459ebee710b3d6d9acb9cf6baf9cb4b077a3
+  ms.sourcegitcommit: 24feefce06cf63bbb5408c816f7d06994b73f5d3
   ms.translationtype: MT
   ms.contentlocale: es-ES
-  ms.lasthandoff: 06/30/2021
-  ms.locfileid: "53206929"
+  ms.lasthandoff: 08/20/2021
+  ms.locfileid: "58408464"
 title: Programa de desarrolladores de Microsoft 365
 summary: Estos son las preguntas más frecuentes sobre el programa de desarrolladores de Microsoft 365.
 sections:
-- name: Ignorado
+- name: Omitidas
   questions:
   - question: >
       ¿Qué es el programa de desarrolladores de Microsoft 365 y quién debería unirse?
@@ -82,14 +82,14 @@ sections:
       <a name="account-types"> </a>
   - question: >
       ¿Cómo puedo migrar de una suscripción de Office 365 E3 a una suscripción de Microsoft 365 E5?
-    answer: "Actualmente, solo los nuevos miembros del programa de desarrolladores de Microsoft 365 recibirán una suscripción de desarrollador de Microsoft 365 E5 automáticamente. En el futuro, se ofrecerá a los usuarios existentes un método para migrar a una suscripción de Microsoft 365 E5. Quédese tranquilo, estamos trabajando para que todos los miembros del programa Office 365 Developer puedan migrar a Microsoft 365 E5. \n"
+    answer: "Actualmente, solo los nuevos miembros del programa de desarrolladores de Microsoft 365 recibirán una suscripción de desarrollador de Microsoft 365 E5 automáticamente. Se ofrecerá a los usuarios existentes una opción para migrar a una Microsoft 365 E5 suscripción. \n\nSi decide migrar a una suscripción Microsoft 365 E5, puede usar la herramienta gratuita [Microsoft Mover](https://mover.io/) para migrar los datos. Vea también los siguientes recursos:\n\n- [Cómo migrar buzones de correo de un Microsoft 365 a otro](https://docs.microsoft.com/en-us/exchange/mailbox-migration/migrate-mailboxes-across-tenants)\n- [Uso de PowerShell para realizar una migración por fases a Office 365](https://docs.microsoft.com/en-us/microsoft-365/enterprise/use-powershell-to-perform-a-staged-migration-to-microsoft-365?view=o365-worldwide)\n- [Migrar el contenido a Microsoft 365](https://docs.microsoft.com/en-us/sharepointmigration/migrate-to-sharepoint-online)\n"
   - question: >
       ¿Por qué debo vincular mi cuenta de GitHub?
     answer: >
       Al unirse al programa Desarrollador de Microsoft 365, en la página [Configuración](https://developer.microsoft.com/microsoft-365/profile/settings/preferences), puede vincular su cuenta de GitHub a su cuenta de programa de desarrollador. La vinculación de su cuenta de GitHub se acumulará para la renovación de su suscripción de espacio aislado para desarrolladores de Microsoft 365. También puede desvincular su cuenta si va a la sección [Cuentas vinculadas](https://developer.microsoft.com/microsoft-365/profile/settings/accounts-linked) de su página **Configuración** grupo.
   - question: >
       ¿Puedo elegir si tener una suscripción de Office 365 E3 o Microsoft 365 E5?
-    answer: "Actualmente, solo se ofrece una suscripción de Microsoft 365 E5 a los nuevos miembros del programa de desarrolladores. Los miembros existentes con una suscripción de Office 365 E3 tendrán la opción de mantener la suscripción actual y seguir renovándola si no necesitan las nuevas funciones ofrecidas en Microsoft 365 E5. Los miembros del programa de desarrolladores solo pueden tener una suscripción.  \n\nCuando tengamos una opción de migración para los miembros actuales del programa de desarrolladores, le proporcionaremos más información sobre cómo realizar la migración. \n"
+    answer: "Actualmente, los nuevos miembros del Programa de desarrolladores solo se ofrecen una Microsoft 365 E5 suscripción. Los miembros existentes con una suscripción de Office 365 E3 tendrán la opción de mantener su suscripción actual y continuar renovando si no necesitan las nuevas funcionalidades ofrecidas en Microsoft 365 E5 o realizar una actualización única a una suscripción Microsoft 365 E5. Los miembros del programa de desarrolladores solo pueden tener una suscripción.  \n"
   - question: "Como partner de Microsoft, ¿puedo recibir una suscripción? \n"
     answer: "Sí, puede seguir [estas instrucciones](microsoft-365-developer-program.md) para unirse al programa de desarrolladores de Microsoft 365 y configurar una suscripción de desarrollador de Microsoft 365. Pero si ya tiene una suscripción de Visual Studio Enterprise o Visual Studio Professional, puede obtener una suscripción de desarrollador de Microsoft 365 como beneficio. Para acceder, vaya a [Visual Studio | Mis ventajas](https://my.visualstudio.com/benefits). Para obtener más información, póngase en contacto con [atención al cliente de Visual Studio](https://www.visualstudio.com/subscriptions/support/). \n"
   - question: >
