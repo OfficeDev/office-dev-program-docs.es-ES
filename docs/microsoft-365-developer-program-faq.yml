@@ -4,16 +4,16 @@ metadata:
   description: Preguntas más frecuentes sobre el programa de desarrolladores de Microsoft 365.
   ms.date: 04/01/2019
   localization_priority: Priority
-  ms.openlocfilehash: 64c0459ebee710b3d6d9acb9cf6baf9cb4b077a3
-  ms.sourcegitcommit: 24feefce06cf63bbb5408c816f7d06994b73f5d3
+  ms.openlocfilehash: 4c0eb41ec477df73e8760118225b1544a77e70de
+  ms.sourcegitcommit: 1bd3cd014653f16b15c019bfbc0eceb01a273512
   ms.translationtype: MT
   ms.contentlocale: es-ES
-  ms.lasthandoff: 08/20/2021
-  ms.locfileid: "58408464"
+  ms.lasthandoff: 08/27/2021
+  ms.locfileid: "58683138"
 title: Programa de desarrolladores de Microsoft 365
 summary: Estos son las preguntas más frecuentes sobre el programa de desarrolladores de Microsoft 365.
 sections:
-- name: Omitidas
+- name: Ignorado
   questions:
   - question: >
       ¿Qué es el programa de desarrolladores de Microsoft 365 y quién debería unirse?
@@ -101,13 +101,12 @@ sections:
     answer: >
       Sí, puede seguir [estas instrucciones](microsoft-365-developer-program.md) para unirse al programa de desarrolladores de Microsoft 365 y configurar una suscripción de desarrollador de Microsoft 365. Pero, incluso para los proveedores, esta suscripción está diseñada para usarse _solo para el desarrollo de aplicaciones_. Si no está realizando las tareas de desarrollo válidas, no se renovará la suscripción.
   - question: >
-      ¿El programa de desarrolladores de Microsoft 365 está disponible en mi idioma?
-    answer: >
-      Además del inglés, el programa de desarrolladores de Microsoft 365 está disponible en los siguientes idiomas: chino (simplificado), francés, alemán, japonés, portugués (Brasil), ruso y español.
-  - question: >
       ¿La suscripción de desarrollador de Microsoft 365 está disponible en mi idioma?
     answer: >
       La suscripción de desarrollador de Microsoft 365 solo está disponible en inglés.
+
+
+      El sitio web del programa para desarrolladores está disponible en los siguientes idiomas: chino (simplificado), francés, alemán, japonés, portugués (Brasil), ruso y español.
   - question: >
       ¿Cómo dejo el programa de desarrolladores de Microsoft 365?
     answer: >
