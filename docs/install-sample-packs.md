@@ -1,13 +1,13 @@
 ---
 title: Usar paquetes de datos de ejemplo con la suscripción al programa de desarrolladores de Microsoft 365
 description: Aprenda cómo instalar paquetes de datos de ejemplo con la suscripción de desarrollador para que su entorno aislado comience a funcionar rápidamente.
-localization_priority: Priority
-ms.openlocfilehash: 3802c1c1e02c7be9ccb322561189ee0d085e8ce0
-ms.sourcegitcommit: 3d50606496bd0bdbbcf892d2d18de6343a44c576
-ms.translationtype: MT
+ms.localizationpriority: high
+ms.openlocfilehash: fb111d13a940fc5dffbba12b092a8f2bfd313872
+ms.sourcegitcommit: aadd59458002b5ffcb857e92eb46c92669587d78
+ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/19/2021
-ms.locfileid: "51890152"
+ms.lasthandoff: 09/16/2021
+ms.locfileid: "59396724"
 ---
 # <a name="use-sample-data-packs-with-your-microsoft-365-developer-program-subscription"></a>Usar paquetes de datos de ejemplo con la suscripción al programa de desarrolladores de Microsoft 365
 
