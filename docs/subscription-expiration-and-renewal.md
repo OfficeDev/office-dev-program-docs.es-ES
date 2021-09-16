@@ -2,13 +2,13 @@
 title: Renovación y caducidad de la suscripción al programa de desarrolladores de Microsoft 365
 description: Información sobre cómo renovar una suscripción de desarrollador que va a expirar.
 ms.date: 04/01/2019
-localization_priority: Priority
-ms.openlocfilehash: ae0d5f496537baf198504b28c6d9cf8ed6966aaf
-ms.sourcegitcommit: 97bf9ba32eaa1df134d563b99b5fa873600b7921
+ms.localizationpriority: high
+ms.openlocfilehash: afb5c197a83c7776c77ea766c3c6f51233497e9a
+ms.sourcegitcommit: aadd59458002b5ffcb857e92eb46c92669587d78
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/30/2021
-ms.locfileid: "53206912"
+ms.lasthandoff: 09/16/2021
+ms.locfileid: "59396717"
 ---
 # <a name="microsoft-365-developer-program-subscription-expiration-and-renewal"></a>Renovación y caducidad de la suscripción al programa de desarrolladores de Microsoft 365
 

@@ -1,13 +1,13 @@
 ---
 title: Use la suscripción de desarrollador para crear soluciones de Microsoft 365
 description: Use la suscripción de desarrollador de Microsoft 365 para crear las soluciones que quiera.
-localization_priority: Priority
-ms.openlocfilehash: 454bf488dc0cb63ca0d58ba2ddbb5249204f0ea7
-ms.sourcegitcommit: 97bf9ba32eaa1df134d563b99b5fa873600b7921
+ms.localizationpriority: high
+ms.openlocfilehash: 4fc14896d3e0833f102cabc3152fb1e3a7884843
+ms.sourcegitcommit: aadd59458002b5ffcb857e92eb46c92669587d78
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/30/2021
-ms.locfileid: "53206898"
+ms.lasthandoff: 09/16/2021
+ms.locfileid: "59396680"
 ---
 # <a name="use-your-developer-subscription-to-build-microsoft-365-solutions"></a>Use la suscripción de desarrollador para crear soluciones de Microsoft 365
 
@@ -45,7 +45,7 @@ Para configurar automáticamente su espacio aislado para probar escenarios de Mi
 
 Para más información, consulte [Usar paquetes de datos de muestra](install-sample-packs.md). 
 
-Para ver más formas de empezar a trabajar con Microsoft Graph, consulte [Introducción a la compilación de aplicaciones de Microsoft Graph](https://developer.microsoft.com/es-ES/graph/get-started) o el [Inicio rápido](https://developer.microsoft.com/es-ES/graph/quick-start) de Microsoft Graph.
+Para ver más formas de empezar a trabajar con Microsoft Graph, consulte [Introducción a la compilación de aplicaciones de Microsoft Graph](https://developer.microsoft.com/en-us/graph/get-started) o el [Inicio rápido](https://developer.microsoft.com/en-us/graph/quick-start) de Microsoft Graph.
 
 ## <a name="office-add-ins"></a>Complementos de Office
 

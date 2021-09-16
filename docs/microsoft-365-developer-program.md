@@ -1,13 +1,13 @@
 ---
 title: Le damos la bienvenida al programa de desarrolladores de Microsoft 365
 description: Únase al programa de desarrolladores de Microsoft 365 para desarrollar soluciones de Microsoft 365 independientes de su entorno de producción.
-localization_priority: Priority
-ms.openlocfilehash: 1beb4ce8946ac64d574328c8fc1c771a0700cd4d
-ms.sourcegitcommit: 97bf9ba32eaa1df134d563b99b5fa873600b7921
-ms.translationtype: MT
+ms.localizationpriority: high
+ms.openlocfilehash: 6694e1d3f31ea8f52b537707a44f251a895eb85e
+ms.sourcegitcommit: aadd59458002b5ffcb857e92eb46c92669587d78
+ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/30/2021
-ms.locfileid: "53206905"
+ms.lasthandoff: 09/16/2021
+ms.locfileid: "59396696"
 ---
 # <a name="welcome-to-the-microsoft-365-developer-program"></a>Le damos la bienvenida al programa de desarrolladores de Microsoft 365
 

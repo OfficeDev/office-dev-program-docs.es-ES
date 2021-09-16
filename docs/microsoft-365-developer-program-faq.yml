@@ -3,13 +3,13 @@ metadata:
   title: Programa de desarrolladores de Microsoft 365
   description: Preguntas más frecuentes sobre el programa de desarrolladores de Microsoft 365.
   ms.date: 04/01/2019
-  localization_priority: Priority
-  ms.openlocfilehash: 4c0eb41ec477df73e8760118225b1544a77e70de
-  ms.sourcegitcommit: 1bd3cd014653f16b15c019bfbc0eceb01a273512
+  ms.localizationpriority: high
+  ms.openlocfilehash: ca503a50bd32678583899ecf23aa8b15c4735322
+  ms.sourcegitcommit: aadd59458002b5ffcb857e92eb46c92669587d78
   ms.translationtype: MT
   ms.contentlocale: es-ES
-  ms.lasthandoff: 08/27/2021
-  ms.locfileid: "58683138"
+  ms.lasthandoff: 09/16/2021
+  ms.locfileid: "59396703"
 title: Programa de desarrolladores de Microsoft 365
 summary: Estos son las preguntas más frecuentes sobre el programa de desarrolladores de Microsoft 365.
 sections:
@@ -90,6 +90,10 @@ sections:
   - question: >
       ¿Puedo elegir si tener una suscripción de Office 365 E3 o Microsoft 365 E5?
     answer: "Actualmente, los nuevos miembros del Programa de desarrolladores solo se ofrecen una Microsoft 365 E5 suscripción. Los miembros existentes con una suscripción de Office 365 E3 tendrán la opción de mantener su suscripción actual y continuar renovando si no necesitan las nuevas funcionalidades ofrecidas en Microsoft 365 E5 o realizar una actualización única a una suscripción Microsoft 365 E5. Los miembros del programa de desarrolladores solo pueden tener una suscripción.  \n"
+  - question: >
+      ¿La suscripción Microsoft 365 desarrollador está sujeta al límite de datos de la UE para Microsoft Cloud (EUDB)?
+    answer: >
+      No. La suscripción Microsoft 365 desarrollador gratuito solo está sujeta a los Términos y [condiciones](terms-and-conditions.md) y no a los compromisos de EUDB. Sin embargo, como parte del proceso de aprovisionamiento, tiene la opción de elegir el país o región para su suscripción.
   - question: "Como partner de Microsoft, ¿puedo recibir una suscripción? \n"
     answer: "Sí, puede seguir [estas instrucciones](microsoft-365-developer-program.md) para unirse al programa de desarrolladores de Microsoft 365 y configurar una suscripción de desarrollador de Microsoft 365. Pero si ya tiene una suscripción de Visual Studio Enterprise o Visual Studio Professional, puede obtener una suscripción de desarrollador de Microsoft 365 como beneficio. Para acceder, vaya a [Visual Studio | Mis ventajas](https://my.visualstudio.com/benefits). Para obtener más información, póngase en contacto con [atención al cliente de Visual Studio](https://www.visualstudio.com/subscriptions/support/). \n"
   - question: >
