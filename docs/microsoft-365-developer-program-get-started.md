@@ -3,12 +3,12 @@ title: Configurar una suscripción de espacio aislado para desarrolladores de Mi
 description: Configure una suscripción de desarrollador de Microsoft 365 para crear soluciones independientes de su entorno de producción.
 ms.date: 04/01/2019
 ms.localizationpriority: high
-ms.openlocfilehash: 8671c4df2866ebe6adeef8ade428472ec850cd47
-ms.sourcegitcommit: cfa3f2fd7867c0f0118ac7f563b38af9a0b09024
+ms.openlocfilehash: b21d725c158a607df247084fa99c4547f2989e31
+ms.sourcegitcommit: 6be0111c5e2a3f92db69de452bd20214b19ec5a1
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/03/2021
-ms.locfileid: "60724850"
+ms.lasthandoff: 11/05/2021
+ms.locfileid: "60793529"
 ---
 # <a name="set-up-a-microsoft-365-developer-sandbox-subscription"></a>Configurar una suscripción de espacio aislado para desarrolladores de Microsoft 365 
 
@@ -25,6 +25,8 @@ Si elige un espacio aislado instantáneo, puede reducir el tiempo de configuraci
 
 Además, obtendrá datos de ejemplo preinstalados, incluido el nuevo paquete de datos de ejemplo de Teams, así como Microsoft Graph datos de usuario, correo y calendario, y datos de ejemplo de SharePoint Framework, que simulan un pequeño entorno corporativo para ayudarle a crear soluciones en toda la plataforma Microsoft 365. Para obtener más información, consulte Los datos de ejemplo del espacio aislado para desarrolladores.
 
+> [!VIDEO https://www.microsoft.com/en-us/videoplayer/embed/RWOmCY]
+
 No puede personalizar el nombre de dominio si elige esta opción.
 
 ## <a name="configurable-sandbox"></a>Espacio aislado configurable
@@ -39,14 +41,14 @@ Configurar una suscripción de desarrollador de Microsoft 365:
 
 2. En el cuadro de diálogo **Configurar la suscripción de desarrollador de Microsoft 365 E5**, elige si quieres un espacio aislado instantáneo o un espacio aislado configurable y, a continuación, elige **Next**.
 
-  ![Captura de pantalla del cuadro de diálogo Configurar la suscripción de desarrollador de Microsoft 365 E5](images/set-up-your-subscription.png)
+    ![Captura de pantalla del cuadro de diálogo Configurar la suscripción de desarrollador de Microsoft 365 E5](images/set-up-your-subscription.png)
 
 Si seleccionó un espacio aislado instantáneo:
 
 1.  Elija el **Country/region para el centro de datos**, y proporcione un **Admin username** y **Admin password** y, opcionalmente, una contraseña alternativa para los usuarios ficticios, y, a continuación, elija **Continue**.
 
-  > [!IMPORTANT] 
-  > Anote el nombre de usuario y contraseña porque los necesitará para acceder a su suscripción de desarrollador.
+    > [!IMPORTANT] 
+    > Anote el nombre de usuario y contraseña porque los necesitará para acceder a su suscripción de desarrollador.
 
 2.  Proporcione un número de teléfono móvil válido y elija **Enviar código**. Escriba el código que recibe y, a continuación, elija **Configurar**.
 3.  Después de crear la suscripción, el nombre y la fecha de expiración de su suscripción aparecerán en la página de perfil.
@@ -55,8 +57,8 @@ Si seleccionó un espacio aislado configurable:
 
 1.  Elija su **Country/region**, y, a continuación, proporcione un nombre de usuario en el campo **Crear nombre de usuario** y un nombre de dominio en el **Crear campo de dominio**. Cree y confirme la contraseña y, a continuación, elija **Continue**.
 
-  > [!IMPORTANT] 
-  > Anote el nombre de usuario y contraseña porque los necesitará para acceder a su suscripción de desarrollador.
+    > [!IMPORTANT] 
+    > Anote el nombre de usuario y contraseña porque los necesitará para acceder a su suscripción de desarrollador.
 
 2.  Proporcione un número de teléfono móvil válido y elija **Enviar código**. Escriba el código que recibe y, a continuación, elija **Configurar**.
 3.  Después de crear la suscripción, el nombre y la fecha de expiración de su suscripción aparecerán en la página de perfil.
@@ -79,8 +81,8 @@ Si seleccionó un espacio aislado configurable:
 
 6. **Agregar nuevos usuarios**. Puede agregar usuarios ficticios o reales que le ayuden con el desarrollo. Cuando esté listo, elija **Agregar usuarios y asignar licencias**.
     
-  > [!NOTE]
-  > Si tiene una suscripción configurable, después de configurar la suscripción, puede instalar el paquete de datos de ejemplo Usuarios. El paquete de datos de ejemplo de Usuarios crea 16 usuarios ficticios en su suscripción e incluye las licencias para cada usuario, los buzones de correo, los nombres, los metadatos y las fotos para cada uno. Para obtener más información, consulte [Datos de ejemplo de espacio aislado deDeveloper](install-sample-packs.md).
+    > [!NOTE]
+    > Si tiene una suscripción configurable, después de configurar la suscripción, puede instalar el paquete de datos de ejemplo Usuarios. El paquete de datos de ejemplo de Usuarios crea 16 usuarios ficticios en su suscripción e incluye las licencias para cada usuario, los buzones de correo, los nombres, los metadatos y las fotos para cada uno. Para obtener más información, consulte [Datos de ejemplo de espacio aislado deDeveloper](install-sample-packs.md).
 
 6. **Asignar licencias a los usuarios sin licencia**. Conceda una licencia a todos los usuarios que quiera que trabajen con la suscripción. Cuando esté listo, elija **Agregar usuarios y asignar licencias** o **Hacer esto más adelante**.
 

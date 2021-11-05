@@ -2,12 +2,12 @@
 title: Usar paquetes de datos de ejemplo con la suscripción al programa de desarrolladores de Microsoft 365
 description: Aprenda cómo instalar paquetes de datos de ejemplo con la suscripción de desarrollador para que su entorno aislado comience a funcionar rápidamente.
 ms.localizationpriority: high
-ms.openlocfilehash: 85bdbc5cbcb6daaf40beeef7e0138909361d6cd1
-ms.sourcegitcommit: cfa3f2fd7867c0f0118ac7f563b38af9a0b09024
+ms.openlocfilehash: 3548c050f346604b803dd4da7343a7ab8eb26075
+ms.sourcegitcommit: 6be0111c5e2a3f92db69de452bd20214b19ec5a1
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/03/2021
-ms.locfileid: "60725050"
+ms.lasthandoff: 11/05/2021
+ms.locfileid: "60793536"
 ---
 # <a name="developer-sandbox-sample-data"></a>Datos de ejemplo de espacio aislado para desarrolladores
 
@@ -70,19 +70,19 @@ Para instalar el paquete de datos de ejemplo de Usuarios:
 3. Escriba su Id. de administrador y su contraseña en la página de inicio de sesión.
 4. Conceda el consentimiento para los permisos de administrador de la suscripción de desarrollador de Microsoft 365.
 
-![Captura de pantalla que muestra el cuadro de diálogo para el consentimiento de permisos](images/sample-data-pack-ux-tile-users-consent-with-permissions-combined.PNG)
+  ![Captura de pantalla que muestra el cuadro de diálogo para el consentimiento de permisos](images/sample-data-pack-ux-tile-users-consent-with-permissions-combined.PNG)
 
 5. Configure las contraseñas para todos los usuarios de ejemplo. Tendrá que tener una contraseña compartida definida para administrar fácilmente todos los usuarios ficticios.
 
-![Captura de pantalla del cuadro de diálogo para agregar una contraseña de usuario compartida](images/sample-data-pack-ux-tile-users-fake-user-password-creation.PNG)
+  ![Captura de pantalla del cuadro de diálogo para agregar una contraseña de usuario compartida](images/sample-data-pack-ux-tile-users-fake-user-password-creation.PNG)
 
 6. Se instalarán los datos. La instalación debería tardar unos 5 minutos.
 
-![Captura de pantalla que muestra el proceso de instalación en el icono del panel](images/sample-data-pack-ux-tile-users-installing-status.PNG)
+  ![Captura de pantalla que muestra el proceso de instalación en el icono del panel](images/sample-data-pack-ux-tile-users-installing-status.PNG)
 
 7. Cuando finalice la instalación, recibirá una notificación por correo electrónico y el cuadro del icono de la suscripción estará en verde. Ahora puede instalar el paquete de datos de ejemplo de Correo y Eventos.
 
-![Recorte de pantalla del icono del panel cuando Correo y Eventos están listos para instalarse](images/sample-data-pack-ux-tile-users-installed.PNG)
+  ![Recorte de pantalla del icono del panel cuando Correo y Eventos están listos para instalarse](images/sample-data-pack-ux-tile-users-installed.PNG)
 
 ### <a name="install-the-mail--events-sample-data-pack"></a>Instalar el paquete de datos de ejemplo de Correo y Eventos 
 
@@ -91,10 +91,10 @@ Una vez que haya instalado el paquete de datos de ejemplo de Usuarios, puede pro
 1. Elija el cuadro **Correo &amp; Eventos** en el icono de la suscripción.
 2. Seleccione **Instalar** para comenzar la instalación.
 
-![Captura de pantalla del cuadro de diálogo instalar](images/sample-data-pack-ux-tile-mail-and-events-begin-install.PNG)
+  ![Captura de pantalla del cuadro de diálogo instalar](images/sample-data-pack-ux-tile-mail-and-events-begin-install.PNG)
 
-> [!NOTE]
-> Si acaba de crear su suscripción, la misma debe estar completamente aprovisionada antes de poder iniciar la instalación. Esto puede tardar algunas horas. Una vez iniciada la instalación, puede tardar hasta 20 minutos en finalizar.
+  > [!NOTE]
+  > Si acaba de crear su suscripción, la misma debe estar completamente aprovisionada antes de poder iniciar la instalación. Esto puede tardar algunas horas. Una vez iniciada la instalación, puede tardar hasta 20 minutos en finalizar.
 
 3. Cuando finalice la instalación, recibirá una notificación por correo electrónico y el cuadro del icono de la suscripción estará en verde.
 
