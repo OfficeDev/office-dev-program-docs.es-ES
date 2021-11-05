@@ -2,12 +2,12 @@
 title: Use la suscripción de desarrollador para crear soluciones de Microsoft 365
 description: Use la suscripción de desarrollador de Microsoft 365 para crear las soluciones que quiera.
 ms.localizationpriority: high
-ms.openlocfilehash: 4fc14896d3e0833f102cabc3152fb1e3a7884843
-ms.sourcegitcommit: aadd59458002b5ffcb857e92eb46c92669587d78
+ms.openlocfilehash: 3c03ccc44e4923631c12f09e58656845e5695d90
+ms.sourcegitcommit: cfa3f2fd7867c0f0118ac7f563b38af9a0b09024
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/16/2021
-ms.locfileid: "59396680"
+ms.lasthandoff: 11/03/2021
+ms.locfileid: "60725023"
 ---
 # <a name="use-your-developer-subscription-to-build-microsoft-365-solutions"></a>Use la suscripción de desarrollador para crear soluciones de Microsoft 365
 
@@ -76,7 +76,7 @@ Para empezar a codificar complementos de SharePoint:
 
 ## <a name="power-apps"></a>Power Apps
 
-Power Apps está incluido en su licencia de suscripción de desarrollador de Microsoft 365 E5. 
+Power Apps para Office 365 está incluido en su licencia de suscripción de desarrollador de Microsoft 365 E5. Esto significa que puede crear y probar aplicaciones ilimitadas con [conectores estándar](https://docs.microsoft.com/connectors/connector-reference/connector-reference-standard-connectors). Para usar [premium](https://docs.microsoft.com/connectors/connector-reference/connector-reference-premium-connectors) o conectores personalizados y Dataverse necesita una licencia adicional. Si es con fines de desarrollo y pruebas, puede usar el [Plan de desarrollador de Power Apps](https://powerapps.microsoft.com/developerplan). 
 
 Power Apps es un conjunto de aplicaciones, servicios, conectores y plataforma de datos que proporcionan un entorno de desarrollo de aplicaciones rápido para crear aplicaciones personalizadas según las necesidades de su negocio. Power Apps le permite crear rápidamente aplicaciones empresariales personalizadas que se conecten a los datos de la empresa almacenados en la plataforma de datos subyacente (Common Data Service) o en varios orígenes de datos locales y en línea (SharePoint, Microsoft 365, Dynamics 365, SQL Server, etc.).
 
