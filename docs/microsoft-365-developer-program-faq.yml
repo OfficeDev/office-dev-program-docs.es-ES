@@ -4,12 +4,12 @@ metadata:
   description: Preguntas más frecuentes sobre el programa de desarrolladores de Microsoft 365.
   ms.date: 04/01/2019
   ms.localizationpriority: high
-  ms.openlocfilehash: 288754708eb5a589dad6a6304a0f252cf60fe3b2
-  ms.sourcegitcommit: cfa3f2fd7867c0f0118ac7f563b38af9a0b09024
+  ms.openlocfilehash: fbc4aae63cb03207a095ca6014d7c92394544eeb
+  ms.sourcegitcommit: 7d83b21fd60e5e6b43b4ebcca5c5a411c8149a7b
   ms.translationtype: MT
   ms.contentlocale: es-ES
-  ms.lasthandoff: 11/03/2021
-  ms.locfileid: "60725030"
+  ms.lasthandoff: 11/11/2021
+  ms.locfileid: "60907206"
 title: Programa de desarrolladores de Microsoft 365
 summary: Estos son las preguntas más frecuentes sobre el programa de desarrolladores de Microsoft 365.
 sections:
@@ -85,11 +85,14 @@ sections:
     answer: "Actualmente, solo los nuevos miembros del programa de desarrolladores de Microsoft 365 recibirán una suscripción de desarrollador de Microsoft 365 E5 automáticamente. Se ofrecerá a los usuarios existentes una opción para migrar a una Microsoft 365 E5 suscripción. \n\nSi decide migrar a una suscripción Microsoft 365 E5, puede usar la herramienta gratuita [Microsoft Mover](https://mover.io/) para migrar los datos. Vea también los siguientes recursos:\n\n- [Cómo migrar buzones de correo de un Microsoft 365 a otro](https://docs.microsoft.com/en-us/exchange/mailbox-migration/migrate-mailboxes-across-tenants)\n- [Uso de PowerShell para realizar una migración por fases a Office 365](https://docs.microsoft.com/en-us/microsoft-365/enterprise/use-powershell-to-perform-a-staged-migration-to-microsoft-365?view=o365-worldwide)\n- [Migrar el contenido a Microsoft 365](https://docs.microsoft.com/en-us/sharepointmigration/migrate-to-sharepoint-online)\n"
   - question: >
       ¿Debo elegir un espacio aislado instantáneo o un espacio aislado configurable?
-    answer: "Si elige un espacio aislado instantáneo, puede reducir el tiempo de configuración del espacio aislado de días a segundos. El Microsoft 365 espacio aislado instantáneo viene aprovisionado previamente con Microsoft Teams, SharePoint, Outlook y Office. También incluye licencias para 24 usuarios de prueba más un administrador y las aplicaciones de Microsoft 365 más recientes para tu PC y Mac, incluidos Power Apps, Power BI, Enterprise Mobility + Security, protección contra amenazas avanzada de Office 365 y Azure Active Directory.\n\nAdemás, obtiene datos de ejemplo preinstalados, incluido el nuevo paquete de datos de ejemplo de Teams, que simulan un entorno corporativo pequeño para ayudarle a crear soluciones en toda la Microsoft 365 web. Para obtener más información, consulta Datos de ejemplo de espacio aislado para desarrolladores.\n\nSi elige un espacio aislado configurable, tendrá un espacio aislado vacío que debe rellenar con datos de ejemplo. Este espacio aislado puede tardar hasta dos días en aprovisionar. Puede elegir instalar los paquetes de datos de ejemplo que están disponibles en el panel del programa para desarrolladores. Puedes personalizar el nombre de dominio con esta opción. \n"
+    answer: "Si elige un espacio aislado instantáneo, puede reducir el tiempo de configuración del espacio aislado de días a segundos. El espacio aislado instantáneo de Microsoft 365 viene aprovisionado previamente con Microsoft Teams, SharePoint, Outlook y Office. También incluye licencias para 24 usuarios de prueba más un administrador y las aplicaciones de Microsoft 365 más recientes para su PC y Mac, incluidos Power Apps, Power BI, Enterprise Mobility + Security, Protección contra amenazas avanzada de Office 365 y Azure Active Directory.\n\nAdemás, obtiene datos de ejemplo preinstalados, incluido el nuevo paquete de datos de ejemplo de Teams, que simulan un entorno corporativo pequeño para ayudarle a crear soluciones en toda la Microsoft 365 web. Para obtener más información, consulte Los datos de ejemplo del espacio aislado para desarrolladores.\n\nSi elige un espacio aislado configurable, tendrá un espacio aislado vacío que debe rellenar con datos de ejemplo. Este espacio aislado puede tardar hasta dos días en aprovisionarse. Puede elegir instalar los paquetes de datos de ejemplo que están disponibles en el panel del programa para desarrolladores. Puedes personalizar el nombre de dominio con esta opción. \n"
+  - question: >
+      ¿Cómo puedo encontrar los Teams de ejemplo en mi espacio aislado instantáneo?
+    answer: >
+      Para ver los datos de ejemplo de Microsoft Teams, vaya a **Teams** en su suscripción de Microsoft 365 E5. En la pestaña Teams, verá algunos equipos creados previamente con chats de usuarios de ejemplo en el **Equipo de proyecto de Mark 8**. La aplicación App Studio/Portal de desarrollo está preinstalada y anclada al panel de navegación.
   - question: >
       ¿Por qué debo vincular mi cuenta de GitHub?
-    answer: >
-      Al unirse al programa Desarrollador de Microsoft 365, en la página [Configuración](https://developer.microsoft.com/microsoft-365/profile/settings/preferences), puede vincular su cuenta de GitHub a su cuenta de programa de desarrollador. La vinculación de su cuenta de GitHub se acumulará para la renovación de su suscripción de espacio aislado para desarrolladores de Microsoft 365. También puede desvincular su cuenta si va a la sección [Cuentas vinculadas](https://developer.microsoft.com/microsoft-365/profile/settings/accounts-linked) de su página **Configuración** grupo.
+    answer: "Al unirse al programa Desarrollador de Microsoft 365, en la página [Configuración](https://developer.microsoft.com/microsoft-365/profile/settings/preferences), puede vincular su cuenta de GitHub a su cuenta de programa de desarrollador. La vinculación de su cuenta de GitHub se acumulará para la renovación de su suscripción de espacio aislado para desarrolladores de Microsoft 365. También puede desvincular su cuenta si va a la sección [Cuentas vinculadas](https://developer.microsoft.com/microsoft-365/profile/settings/accounts-linked) de su página **Configuración** grupo.\n  \n"
   - question: >
       ¿Puedo elegir si tener una suscripción de Office 365 E3 o Microsoft 365 E5?
     answer: "Actualmente, los nuevos miembros del Programa de desarrolladores solo se ofrecen una Microsoft 365 E5 suscripción. Los miembros existentes con una suscripción de Office 365 E3 tendrán la opción de mantener su suscripción actual y continuar renovando si no necesitan las nuevas funcionalidades ofrecidas en Microsoft 365 E5 o realizar una actualización única a una suscripción Microsoft 365 E5. Los miembros del programa de desarrolladores solo pueden tener una suscripción.  \n"

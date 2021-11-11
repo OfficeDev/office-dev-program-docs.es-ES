@@ -3,12 +3,12 @@ title: Configurar una suscripción de espacio aislado para desarrolladores de Mi
 description: Configure una suscripción de desarrollador de Microsoft 365 para crear soluciones independientes de su entorno de producción.
 ms.date: 04/01/2019
 ms.localizationpriority: high
-ms.openlocfilehash: b21d725c158a607df247084fa99c4547f2989e31
-ms.sourcegitcommit: 6be0111c5e2a3f92db69de452bd20214b19ec5a1
+ms.openlocfilehash: 57fc33880f2df4e43bf79d17a2280ea3e7853561
+ms.sourcegitcommit: ff0cbb1c2c58aca2b50335d957b30495c8e90486
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/05/2021
-ms.locfileid: "60793529"
+ms.lasthandoff: 11/10/2021
+ms.locfileid: "60889450"
 ---
 # <a name="set-up-a-microsoft-365-developer-sandbox-subscription"></a>Configurar una suscripción de espacio aislado para desarrolladores de Microsoft 365 
 
@@ -51,6 +51,10 @@ Si seleccionó un espacio aislado instantáneo:
     > Anote el nombre de usuario y contraseña porque los necesitará para acceder a su suscripción de desarrollador.
 
 2.  Proporcione un número de teléfono móvil válido y elija **Enviar código**. Escriba el código que recibe y, a continuación, elija **Configurar**.
+
+    > [!NOTE] 
+    > Debe usar un número de teléfono móvil válido y no voz sobre IP (VoIP).
+
 3.  Después de crear la suscripción, el nombre y la fecha de expiración de su suscripción aparecerán en la página de perfil.
 
 Si seleccionó un espacio aislado configurable:

@@ -2,18 +2,20 @@
 title: Usar paquetes de datos de ejemplo con la suscripción al programa de desarrolladores de Microsoft 365
 description: Aprenda cómo instalar paquetes de datos de ejemplo con la suscripción de desarrollador para que su entorno aislado comience a funcionar rápidamente.
 ms.localizationpriority: high
-ms.openlocfilehash: 3548c050f346604b803dd4da7343a7ab8eb26075
-ms.sourcegitcommit: 6be0111c5e2a3f92db69de452bd20214b19ec5a1
+ms.openlocfilehash: 9031992701203438c26ffe3266d59932c370105f
+ms.sourcegitcommit: ff0cbb1c2c58aca2b50335d957b30495c8e90486
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/05/2021
-ms.locfileid: "60793536"
+ms.lasthandoff: 11/10/2021
+ms.locfileid: "60889457"
 ---
 # <a name="developer-sandbox-sample-data"></a>Datos de ejemplo de espacio aislado para desarrolladores
 
 La suscripción de espacio aislado del Programa para desarrolladores de Microsoft 365 incluye datos de ejemplo para ahorrarle tiempo proporcionando los datos y el contenido que necesita para compilar y probar sus soluciones.
 
 ![Recorte de pantalla de los botones del paquete de datos de ejemplo](images/sample-data-packs.PNG)
+
+## <a name="sample-data-installed-on-the-instant-sandbox"></a>Datos de ejemplo instalados en el espacio aislado instantáneo
 
 Si tiene un espacio aislado instantáneo, los paquetes de datos de ejemplo ya están preinstalados. El espacio aislado instantáneo incluye los siguientes datos de ejemplo:
 
@@ -26,12 +28,12 @@ Si tiene un espacio aislado instantáneo, los paquetes de datos de ejemplo ya es
     ![Recorte de pantalla del Portal para desarrolladores de Teams](images/teams-developer-portal.PNG)
 - **Datos de ejemplo de SharePoint Framework**: elija entre seis plantillas de sitio que puede instalar y evaluar como soluciones personalizadas para su organización (con una preinstalada).
 
+## <a name="install-sample-data-packs-in-your-configurable-sandbox"></a>Instalación de paquetes de datos de ejemplo en el espacio aislado configurable
+
 Si tiene un espacio aislado configurable, puede instalar rápidamente los datos de ejemplo para poder concentrarse en sus soluciones en lugar de dedicar tiempo a crear los datos de ejemplo por su cuenta.
 
 > [!NOTE] 
 > No puede instalar paquetes de datos de ejemplo en ninguna otra suscripción de Microsoft 365. Estos paquetes de datos de ejemplo solo son compatibles con la suscripción de espacio aislado de desarrollador de Microsoft 365 que recibe como parte del programa de desarrolladores de Microsoft 365.
-
-## <a name="install-sample-data-packs-in-your-configurable-sandbox"></a>Instalación de paquetes de datos de ejemplo en el espacio aislado configurable
 
 Puede encontrar paquetes de datos de ejemplo en el [panel del programa de desarrolladores de Microsoft 365](https://developer.microsoft.com/microsoft-365/profile), en la parte inferior del icono de la suscripción.
 
