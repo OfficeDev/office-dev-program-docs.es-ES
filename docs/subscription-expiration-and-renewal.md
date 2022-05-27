@@ -3,16 +3,16 @@ title: Renovación y caducidad de la suscripción al programa de desarrolladores
 description: Información sobre cómo renovar una suscripción de desarrollador que va a expirar.
 ms.date: 04/01/2019
 ms.localizationpriority: high
-ms.openlocfilehash: afb5c197a83c7776c77ea766c3c6f51233497e9a
-ms.sourcegitcommit: aadd59458002b5ffcb857e92eb46c92669587d78
+ms.openlocfilehash: ddc03b8c1c7f1284fd557e2f5c11b95dec034825
+ms.sourcegitcommit: a9d1dcc5aa7e2f2178aed640eb5f44d442b47410
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/16/2021
-ms.locfileid: "59396717"
+ms.lasthandoff: 05/27/2022
+ms.locfileid: "65751519"
 ---
 # <a name="microsoft-365-developer-program-subscription-expiration-and-renewal"></a>Renovación y caducidad de la suscripción al programa de desarrolladores de Microsoft 365
 
-La suscripción al programa para desarrolladores de Microsoft 365 incluye una suscripción gratuita de desarrollador de Office 365 E3 o Microsoft 365 E5. Su suscripción de desarrollador puede renovarse en función de la actividad de desarrollo; sin embargo, algunas suscripciones antiguas sí caducan. Este artículo describe la diferencia entre las suscripciones renovables y las no renovables y cómo actualizar la suscripción en caso de que expire.
+La suscripción al programa para desarrolladores de Microsoft 365 incluye una suscripción gratuita de desarrollador de Microsoft 365 E5. Su suscripción de desarrollador puede renovarse en función de la actividad de desarrollo; sin embargo, algunas suscripciones antiguas sí caducan. Este artículo describe la diferencia entre las suscripciones renovables y las no renovables y cómo actualizar la suscripción en caso de que expire.
 
 ## <a name="expiring-vs-renewable-developer-subscriptions"></a>Suscripciones de desarrollador renovables y no renovables
 
