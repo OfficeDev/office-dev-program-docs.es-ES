@@ -2,12 +2,12 @@
 title: Le damos la bienvenida al programa de desarrolladores de Microsoft 365
 description: Únase al programa de desarrolladores de Microsoft 365 para desarrollar soluciones de Microsoft 365 independientes de su entorno de producción.
 ms.localizationpriority: high
-ms.openlocfilehash: 2294565eb909f5fddcf69ddf3d70a3684df4f23b
-ms.sourcegitcommit: a9d1dcc5aa7e2f2178aed640eb5f44d442b47410
+ms.openlocfilehash: 023815d9c7db62570b93c1af9c1d8eea13bf03ec
+ms.sourcegitcommit: b1185ed54490217e1777b182a1a7535b84a06dc4
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/27/2022
-ms.locfileid: "65751505"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66241542"
 ---
 # <a name="welcome-to-the-microsoft-365-developer-program"></a>Le damos la bienvenida al programa de desarrolladores de Microsoft 365
 
@@ -54,5 +54,6 @@ El programa de desarrolladores de Microsoft 365 incluye una suscripción para de
 - Cuando disponga de la suscripción de desarrolladores, [use su suscripción](build-microsoft-365-solutions.md) para crear los tipos de soluciones que quiera.
 - Para obtener información sobre suscripciones que van a expirar, consulte [Caducidad y renovación de suscripciones](subscription-expiration-and-renewal.md).
 - Para ver las preguntas más frecuentes sobre el programa de desarrolladores de Microsoft 365, vea las [Preguntas más frecuentes](microsoft-365-developer-program-faq.yml).
+- Explore la [Documentación para desarrolladores de Microsoft 365](/microsoft-365/developer).
 
 
