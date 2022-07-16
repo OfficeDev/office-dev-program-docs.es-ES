@@ -2,12 +2,12 @@
 title: Usar paquetes de datos de ejemplo con la suscripción al programa de desarrolladores de Microsoft 365
 description: Aprenda cómo instalar paquetes de datos de ejemplo con la suscripción de desarrollador para que su entorno aislado comience a funcionar rápidamente.
 ms.localizationpriority: high
-ms.openlocfilehash: 9031992701203438c26ffe3266d59932c370105f
-ms.sourcegitcommit: ff0cbb1c2c58aca2b50335d957b30495c8e90486
+ms.openlocfilehash: a9d93e75b23e08ad49c960e0d4f1559e33193f5e
+ms.sourcegitcommit: 088cfc887d4638d9be44cdd58ff5550a6564314c
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/10/2021
-ms.locfileid: "60889457"
+ms.lasthandoff: 07/16/2022
+ms.locfileid: "66827300"
 ---
 # <a name="developer-sandbox-sample-data"></a>Datos de ejemplo de espacio aislado para desarrolladores
 
@@ -104,7 +104,7 @@ Una vez que haya instalado el paquete de datos de ejemplo de Usuarios, puede pro
 
 El paquete de datos de muestra de SharePoint incluye seis plantillas diferentes de sitios de SharePoint entre las que puede elegir para probar y modelar soluciones de SharePoint para la colaboración, la comunicación, la participación y la administración del conocimiento.
 
-Estas son algunas de las plantillas más populares del[ libro de apariencias de SharePoint PnP](https://provisioning.sharepointpnp.com/). Hoy en día, es sencillo crear soluciones de muestra de sitios y páginas atractivas y rápidas con un aspecto excelente en cualquier dispositivo o pantalla. Inspírese con estos diseños o agréguelos a su espacio aislado para empezar a crear su siguiente sitio.
+Estas son algunas de las plantillas más populares del[ libro de apariencias de SharePoint PnP](https://lookbook.microsoft.com). Hoy en día, es sencillo crear soluciones de muestra de sitios y páginas atractivas y rápidas con un aspecto excelente en cualquier dispositivo o pantalla. Inspírese con estos diseños o agréguelos a su espacio aislado para empezar a crear su siguiente sitio.
 
 Las plantillas se pueden instalar en su suscripción. Después de instalar una plantilla, tiene la opción de instalar las otras. En el proceso de instalación se incluyen los pasos siguientes:
 
