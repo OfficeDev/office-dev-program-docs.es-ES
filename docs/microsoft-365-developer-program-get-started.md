@@ -3,16 +3,16 @@ title: Configurar una suscripción de espacio aislado para desarrolladores de Mi
 description: Configure una suscripción de desarrollador de Microsoft 365 para crear soluciones independientes de su entorno de producción.
 ms.date: 04/01/2019
 ms.localizationpriority: high
-ms.openlocfilehash: 57fc33880f2df4e43bf79d17a2280ea3e7853561
-ms.sourcegitcommit: ff0cbb1c2c58aca2b50335d957b30495c8e90486
-ms.translationtype: HT
+ms.openlocfilehash: f28b37a1d3c9e5ae335695f9a5473feb40404172
+ms.sourcegitcommit: e6e6f15ad3f9ce28310a7c8cec87402335bde388
+ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/10/2021
-ms.locfileid: "60889450"
+ms.lasthandoff: 10/21/2022
+ms.locfileid: "68667288"
 ---
 # <a name="set-up-a-microsoft-365-developer-sandbox-subscription"></a>Configurar una suscripción de espacio aislado para desarrolladores de Microsoft 365 
 
-Configure una suscripción de Microsoft 365 Developer para crear soluciones independientes de su entorno de producción. La pertenencia al programa de desarrolladores, a la que se une como miembro normal o a través de Visual Studio enterprise, incluye una suscripción de espacio aislado para desarrolladores de Microsoft 365 E5 con 25 licencias de usuario. Tiene una duración de 90 días y es gratuita solo para fines de desarrollo (codificación de soluciones). 
+Configure una suscripción de Microsoft 365 Developer para crear soluciones independientes de su entorno de producción. La pertenencia al programa de desarrolladores, a la que se une como miembro normal o a través de Visual Studio enterprise, incluye una suscripción de espacio aislado para desarrolladores de Microsoft 365 E5 con 25 licencias de usuario. Tiene una duración de 90 días y es gratuita solo para fines de desarrollo (codificación de soluciones). No se admiten las transacciones comerciales, incluidos los servicios de pago de compra.
 
 > [!NOTE] 
 > Para configurar una suscripción, primero debe [unirse al programa de desarrolladores de Microsoft 365](microsoft-365-developer-program.md) directamente o a través de Visual Studio Professional o Enterprise (si es suscriptor). Después de unirse, verá la opción para configurar una suscripción.
