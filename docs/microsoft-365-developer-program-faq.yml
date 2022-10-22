@@ -4,12 +4,12 @@ metadata:
   description: Preguntas más frecuentes sobre el programa de desarrolladores de Microsoft 365.
   ms.date: 04/01/2019
   ms.localizationpriority: high
-  ms.openlocfilehash: af9cec4b336ffaf68b3ca1f56d61f7f2776ed987
-  ms.sourcegitcommit: e6e6f15ad3f9ce28310a7c8cec87402335bde388
+  ms.openlocfilehash: 2a9be84dc3f2457836404caa70ab66999a246721
+  ms.sourcegitcommit: 1828bc081287aefdfa4d8a94d93de9e6046dc8c9
   ms.translationtype: MT
   ms.contentlocale: es-ES
   ms.lasthandoff: 10/21/2022
-  ms.locfileid: "68667295"
+  ms.locfileid: "68673532"
 title: Programa de desarrolladores de Microsoft 365
 summary: Estos son las preguntas más frecuentes sobre el programa de desarrolladores de Microsoft 365.
 sections:
@@ -55,6 +55,10 @@ sections:
       ¿El espacio aislado instantáneo tiene funcionalidades diferentes a las de una suscripción de Microsoft 365 E5 estándar?
     answer: >
       En Exchange Online, no se admiten los conectores de entrada para el flujo de correo. Si intenta crear un conector de entrada, obtendrá el siguiente error: "Error al ejecutar la solicitud. Para esta oferta de servicio, no puede crear ni actualizar conectores entrantes en su organización".
+  - question: >
+      ¿Por qué no puedo iniciar sesión en el panel del Programa para desarrolladores?
+    answer: >
+      Se requiere que los miembros del Programa para desarrolladores de Microsoft 365 cumplan los [Términos y condiciones](terms-and-conditions.md). En algunos casos, es posible que no permitamos que los miembros que infringen nuestros términos inicien sesión en el programa.
   - question: >
       No puedo iniciar sesión en mi espacio aislado instantáneo con mi cuenta de administrador. ¿Qué puedo hacer?
     answer: "Si configuró el espacio aislado instantáneo en o después del 30 de septiembre de 2022, es posible que haya expirado la capacidad de iniciar sesión con su cuenta de administrador. En este caso, hemos expirado previamente el espacio aislado instantáneo y tendrá que configurar uno nuevo. Vaya al [panel del Programa para desarrolladores de Microsoft 365](https://aka.ms/DevProgramDashboard), inicie sesión con su cuenta del Programa para desarrolladores y elija **Configurar suscripción** para obtener el nuevo espacio aislado instantáneo.  \n\nDespués de configurar el nuevo espacio aislado instantáneo, inicie sesión con su cuenta de administrador en un plazo de 14 días.\n"
